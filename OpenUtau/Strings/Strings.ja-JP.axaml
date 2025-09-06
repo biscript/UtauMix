@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">別名でUSTをエクスポート...</system:String>
   <system:String x:Key="menu.file.exportwav">Wavファイルを出力</system:String>
   <system:String x:Key="menu.file.exportwavto">別名でWavファイルを出力...</system:String>
+  <system:String x:Key="menu.file.exportmp3">MP3をエクスポート</system:String>
+  <system:String x:Key="menu.file.exportmp3to">MP3を保存...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">MP3にミックスダウン</system:String>
   <system:String x:Key="menu.file.importaudio">音声をインポート...</system:String>
   <system:String x:Key="menu.file.importmidi">MIDIをインポート...</system:String>
   <!--<system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi Importer</system:String>-->

@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">Экспортировать UST файлы в...</system:String>
   <system:String x:Key="menu.file.exportwav">Экспорт WAV-файлов</system:String>
   <system:String x:Key="menu.file.exportwavto">Экспорт WAV-файлов в...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Экспорт MP3-файлов</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Экспорт MP3-файлов в...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">Свести в MP3 файл</system:String>
   <system:String x:Key="menu.file.importaudio">Импортировать аудио...</system:String>
   <system:String x:Key="menu.file.importmidi">Импортировать midi...</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">Импортер DryWetMidi</system:String>

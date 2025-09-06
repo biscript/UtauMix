@@ -194,6 +194,9 @@ Nouveau tempo :</system:String>
   <system:String x:Key="menu.file.exportustto">Exporter les pistes UST vers...</system:String>
   <system:String x:Key="menu.file.exportwav">Exporter les fichiers Wav</system:String>
   <system:String x:Key="menu.file.exportwavto">Exporter les fichiers Wav vers...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Exporter les fichiers MP3</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Exporter les fichiers MP3 vers...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">Mixer en fichier MP3</system:String>
   <system:String x:Key="menu.file.importaudio">Importer un fichier audio...</system:String>
   <system:String x:Key="menu.file.importmidi">Importer un MIDI...</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">Import via DryWetMidi</system:String>

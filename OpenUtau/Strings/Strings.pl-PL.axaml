@@ -191,6 +191,9 @@
   <system:String x:Key="menu.file.exportproject">Eksportuj projekt</system:String>
   <system:String x:Key="menu.file.exportust">Eksportuj plik UST</system:String>
   <system:String x:Key="menu.file.exportustto">Eksportuj plik UST do...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Eksportuj pliki MP3</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Eksportuj pliki MP3 do...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">Zmiksuj do pliku MP3</system:String>
   <system:String x:Key="menu.file.exportwav">Eksportuj plik WAV</system:String>
   <system:String x:Key="menu.file.exportwavto">Eksportuj plik WAV do...</system:String>
   <system:String x:Key="menu.file.importaudio">Importuj Audio</system:String>

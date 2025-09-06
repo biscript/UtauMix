@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">Esporta File UST in...</system:String>
   <system:String x:Key="menu.file.exportwav">Esporta File WAV</system:String>
   <system:String x:Key="menu.file.exportwavto">Esporta File WAV in...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Esporta File MP3</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Esporta File MP3 in...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">Mixdown su file MP3</system:String>
   <system:String x:Key="menu.file.importaudio">Importa Audio...</system:String>
   <system:String x:Key="menu.file.importmidi">Importa MIDI...</system:String>
   <!--<system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi Importer</system:String>-->

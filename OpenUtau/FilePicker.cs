@@ -32,10 +32,14 @@ namespace OpenUtau.App {
         public static FilePickerFileType AudioFiles { get; } = new("Audio Files") {
             Patterns = new[] { "*.wav", "*.mp3", "*.ogg", "*.opus", "*.flac" },
         };
-        public static FilePickerFileType WAV { get; } = new("WAV") {
+        public static FilePickerFileType MP3 { get; } = new("MP3") {
+            Patterns = new[] { "*.mp3" },
+        };
+        public static FilePickerFileType WAV { get; } = new("MP3") {
             Patterns = new[] { "*.wav" },
         };
-        public static FilePickerFileType ArchiveFiles { get; } = new("Archive File") {
+        public static FilePickerFileType ArchiveFiles { get; } = new("Archive File")
+        {
             Patterns = new[] { "*.zip", "*.rar", "*.uar", "*.vogeon", "*.oudep" },
         };
         public static FilePickerFileType ZIP { get; } = new("ZIP") {

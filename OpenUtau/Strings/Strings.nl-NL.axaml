@@ -193,6 +193,8 @@
   <system:String x:Key="menu.file.exportustto">Export Ust-bestanden naar...</system:String>
   <system:String x:Key="menu.file.exportwav">Export Wav-bestanden</system:String>
   <system:String x:Key="menu.file.exportwavto">Export Wav-bestanden naar...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Export MP3-bestanden</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Exporteer MP3-bestanden naar...</system:String>
   <system:String x:Key="menu.file.importaudio">_Audio importeren...</system:String>
   <system:String x:Key="menu.file.importmidi">_Midi importeren...</system:String>
   <!--<system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi Importer</system:String>-->

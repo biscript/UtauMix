@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">Xuất thành UST vào thư mục...</system:String>
   <system:String x:Key="menu.file.exportwav">Xuất thành tệp WAV</system:String>
   <system:String x:Key="menu.file.exportwavto">Xuất tệp WAV vào thư mục...</system:String>
+  <system:String x:Key="menu.file.exportmp3">Xuất thành tệp MP3</system:String>
+  <system:String x:Key="menu.file.exportmp3to">Xuất tệp MP3 vào thư mục...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">Gộp thành tệp MP3</system:String>
   <system:String x:Key="menu.file.importaudio">Cho vào tệp nhạc</system:String>
   <system:String x:Key="menu.file.importmidi">Cho vào MIDI</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">Trình nhập DryWetMidi</system:String>

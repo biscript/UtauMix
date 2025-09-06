@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">[다른 이름으로 저장] 개별 트랙을 Ust로...</system:String>
   <system:String x:Key="menu.file.exportwav">개별 트랙을 Wav로...</system:String>
   <system:String x:Key="menu.file.exportwavto">[다른 이름으로 저장] 개별 트랙을 Wav로...</system:String>
+  <system:String x:Key="menu.file.exportmp3">개별 트랙을 MP3로...</system:String>
+  <system:String x:Key="menu.file.exportmp3to">[다른 이름으로 저장] 개별 트랙을 MP3로...</system:String>
+  <system:String x:Key="menu.file.exportmixdowntomp3">MP3로 믹스다운</system:String>
   <system:String x:Key="menu.file.importaudio">[가져오기] 오디오</system:String>
   <system:String x:Key="menu.file.importmidi">[가져오기] Midi</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi 사용해서 불러오기</system:String>

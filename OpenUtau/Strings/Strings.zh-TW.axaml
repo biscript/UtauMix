@@ -193,6 +193,8 @@
   <system:String x:Key="menu.file.exportustto">匯出 UST 檔案至...</system:String>
   <system:String x:Key="menu.file.exportwav">匯出 WAV 音訊</system:String>
   <system:String x:Key="menu.file.exportwavto">匯出 WAV 音訊至...</system:String>
+  <system:String x:Key="menu.file.exportmp3">匯出 MP3 音訊</system:String>
+  <system:String x:Key="menu.file.exportmp3to">匯出 MP3 音訊至...</system:String>
   <system:String x:Key="menu.file.importaudio">匯入音訊...</system:String>
   <system:String x:Key="menu.file.importmidi">匯入 MIDI...</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">Drywet MIDI 匯入器</system:String>

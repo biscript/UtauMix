@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Media;
-using Avalonia.Media.TextFormatting;
 using OpenUtau.App.ViewModels;
 using OpenUtau.Core;
 using OpenUtau.Core.Ustx;
@@ -99,11 +99,21 @@ namespace OpenUtau.App.Controls {
             if (Part == null || !ShowPhoneme) {
                 return;
             }
-            string langCode = PhonemeUIRender.getLangCode(Part);
             var viewModel = ((PianoRollViewModel?)DataContext)?.NotesViewModel;
             if (viewModel == null) {
                 return;
             }
+
+            var project = DocManager.Inst.Project;
+            string singerName = string.Empty;
+
+            if (Part != null && project != null) {
+                int trackNo = Part.trackNo;
+                if (trackNo >= 0 && trackNo < project.tracks.Count) {
+                    singerName = project.tracks[trackNo].Singer?.Name ?? string.Empty;
+                }
+            }
+
             context.DrawRectangle(Background, null, Bounds.WithX(0).WithY(0));
             double leftTick = TickOffset - 480;
             double rightTick = TickOffset + Bounds.Width / TickWidth + 480;
@@ -112,6 +122,9 @@ namespace OpenUtau.App.Controls {
 
             const double y = 35.5;
             const double height = 24;
+            if (Part == null) {
+                return;
+            }
             foreach (var phoneme in Part.phonemes) {
                 double leftBound = viewModel.Project.timeAxis.MsPosToTickPos(phoneme.PositionMs - phoneme.preutter) - Part.position;
                 double rightBound = phoneme.End;
@@ -132,10 +145,30 @@ namespace OpenUtau.App.Controls {
                     double y3 = (1 - phoneme.envelope.data[3].Y / 100) * height;
                     double x4 = viewModel.TickToneToPoint(timeAxis.MsPosToTickPos(posMs + phoneme.envelope.data[4].X) - Part.position, 0).X;
                     double y4 = (1 - phoneme.envelope.data[4].Y / 100) * height;
+                    bool isDaichi = singerName.IndexOf("Daichi", StringComparison.OrdinalIgnoreCase) >= 0;
+                    bool isDero = singerName.IndexOf("Dero", StringComparison.OrdinalIgnoreCase) >= 0;
 
-                    var pen = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.AccentPen2 : ThemeManager.AccentPen1;
-                    var brush = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.AccentBrush2Semi : ThemeManager.AccentBrush1Semi;
+                    bool isSakire = singerName.IndexOf("Sakire", StringComparison.OrdinalIgnoreCase) >= 0;
+                    IPen? pen;
+                    IBrush? brush;
+                    if (isDaichi) {
+                        pen = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.DaichiPhoneme2 : ThemeManager.DaichiPhoneme;
+                        brush = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.DaichiAccentColorSemi : new SolidColorBrush(Color.Parse("#af6cd6ff")) {
+                            Opacity = 0.5
+                        };
 
+                    } else if (isDero) {
+                        pen = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.DeroPhoneme2 : ThemeManager.DeroPhoneme;
+                        brush = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.DeroAccentColorSemi : ThemeManager.GetTrackColor("Dero").AccentColorLightSemi;
+
+                    } else if (isSakire) {
+                        pen = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.SakirePhoneme2 : ThemeManager.SakirePhoneme;
+                        brush = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.SakireAccentColorSemi : ThemeManager.GetTrackColor("Sakire").AccentColorLightSemi;
+                    }
+                    else {
+                        pen = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.AccentPen2 : ThemeManager.AccentPen1;
+                        brush = selectedNotes.Contains(phoneme.Parent) ? ThemeManager.AccentBrush2Semi : ThemeManager.AccentBrush1Semi;
+                    }
                     var point0 = new Point(x0, y + y0);
                     var point1 = new Point(x1, y + y1);
                     var point2 = new Point(x2, y + y2);
@@ -153,10 +186,31 @@ namespace OpenUtau.App.Controls {
                         context.DrawGeometry(brush, pen, pointGeometry);
                     }
                 }
+                bool isDaichi2 = singerName.IndexOf("Daichi", StringComparison.OrdinalIgnoreCase) >= 0;
+                bool isDero2 = singerName.IndexOf("Dero", StringComparison.OrdinalIgnoreCase) >= 0;
 
-                var penPos = ThemeManager.AccentPen2;
-                if (phoneme.rawPosition != phoneme.position) {
-                    penPos = ThemeManager.AccentPen2Thickness3;
+                bool isSakire2 = singerName.IndexOf("Sakire", StringComparison.OrdinalIgnoreCase) >= 0;
+                IPen? penPos;
+                if (isDaichi2) {
+                    penPos = ThemeManager.DaichiAccentPen2;
+                    if (phoneme.rawPosition != phoneme.position) {
+                        penPos = ThemeManager.DaichiAccentPen2Thickness3;
+                    }
+                } else if (isDero2) {
+                    penPos = ThemeManager.DeroAccentPen2;
+                    if (phoneme.rawPosition != phoneme.position) {
+                        penPos = ThemeManager.DeroAccentPen2Thickness3;
+                    }
+                } else if (isSakire2) {
+                    penPos = ThemeManager.SakireAccentPen2;
+                    if (phoneme.rawPosition != phoneme.position) {
+                        penPos = ThemeManager.SakireAccentPen2Thickness3;
+                    }
+                } else {
+                    penPos = ThemeManager.AccentPen2;
+                    if (phoneme.rawPosition != phoneme.position) {
+                        penPos = ThemeManager.AccentPen2Thickness3;
+                    }
                 }
                 context.DrawLine(penPos, new Point(x, y), new Point(x, y + height));
 
@@ -164,13 +218,21 @@ namespace OpenUtau.App.Controls {
                 if (viewModel.TickWidth > ViewConstants.PianoRollTickWidthShowDetails) {
                     string phonemeText = !string.IsNullOrEmpty(phoneme.phonemeMapped) ? phoneme.phonemeMapped : phoneme.phoneme;
                     if (!string.IsNullOrEmpty(phonemeText)) {
-                        (double textX, double textY, Size size, TextLayout textLayout) 
-                        = PhonemeUIRender.AliasPosition(viewModel, phoneme, langCode, ref lastTextEndX, ref raiseText);
-                        using (var state = context.PushTransform(Matrix.CreateTranslation(textX + 2, textY))) {
+                        var bold = phoneme.rawPhoneme != phoneme.phoneme;
+                        var textLayout = TextLayoutCache.Get(phonemeText, ThemeManager.ForegroundBrush!, 12, bold);
+                        if (x < lastTextEndX) {
+                            raiseText = !raiseText;
+                        } else {
+                            raiseText = false;
+                        }
+                        double textY = raiseText ? 2 : 18;
+                        var size = new Size(textLayout.Width + 4, textLayout.Height - 2);
+                        using (var state = context.PushTransform(Matrix.CreateTranslation(x + 2, textY))) {
                             var pen = mouseoverPhoneme == phoneme ? ThemeManager.AccentPen1Thickness2 : ThemeManager.NeutralAccentPenSemi;
                             context.DrawRectangle(ThemeManager.BackgroundBrush, pen, new Rect(new Point(-2, 1.5), size), 4, 4);
                             textLayout.Draw(context, new Point());
                         }
+                        lastTextEndX = x + size.Width;
                     }
                 }
             }

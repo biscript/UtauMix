@@ -193,6 +193,9 @@
   <system:String x:Key="menu.file.exportustto">Ust Dateien nach... exportieren</system:String>
   <system:String x:Key="menu.file.exportwav">Wav Dateien exportieren</system:String>
   <system:String x:Key="menu.file.exportwavto">Wav Dateien nach... exportieren</system:String>
+  <system:String x:Key="menu.file.exportmp3">MP3-Dateien exportieren</system:String>
+<system:String x:Key="menu.file.exportmp3to">MP3-Dateien nach… exportieren</system:String>
+<system:String x:Key="menu.file.exportmixdowntomp3">Zu MP3-Datei konvertieren</system:String>
   <system:String x:Key="menu.file.importaudio">Audio... importieren</system:String>
   <system:String x:Key="menu.file.importmidi">Midi... importieren</system:String>
   <system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi Importeur</system:String>

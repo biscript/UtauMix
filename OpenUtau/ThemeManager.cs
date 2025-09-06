@@ -53,7 +53,37 @@ namespace OpenUtau.App {
         public static IBrush ExpShadowNameBrush = Brushes.White;
         public static IBrush ExpActiveBrush = Brushes.Black;
         public static IBrush ExpActiveNameBrush = Brushes.White;
+        public static IPen DaichiPitchBend = new Pen(new SolidColorBrush(Color.Parse("#7a42d4")), 1);
+        public static IBrush DaichiPitchBendBrush = new SolidColorBrush(Color.Parse("#7a42d4"));
+        public static IPen DeroPitchBend = new Pen(new SolidColorBrush(Color.Parse("#4269d4")), 1);
+        public static IBrush DeroPitchBendBrush = new SolidColorBrush(Color.Parse("#4269d4"));
+        public static IPen SakirePitchBend = new Pen(new SolidColorBrush(Color.Parse("#5eaf4b")), 1);
+        public static IBrush SakirePitchBendBrush = new SolidColorBrush(Color.Parse("#5eaf4b"));
 
+        public static IPen DaichiPhoneme = new Pen(new SolidColorBrush(Color.Parse("#9a4ccf")), 1);
+        public static IPen DaichiPhoneme2 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 1);
+        public static IPen DaichiAccentPen2 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 1);
+        public static IPen DaichiAccentPen2Thickness3 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 3);
+        public static IBrush DaichiAccentColorSemi = new SolidColorBrush(Color.Parse("#b87edf")) {
+            Opacity = 0.5
+        };
+
+        public static IPen DeroPhoneme = new Pen(new SolidColorBrush(Color.Parse("#342577")), 1);
+        public static IPen DeroPhoneme2 = new Pen(new SolidColorBrush(Color.Parse("#7a6fdc")), 1);
+        public static IPen DeroAccentPen2 = new Pen(new SolidColorBrush(Color.Parse("#7a6fdc")), 1);
+        public static IPen DeroAccentPen2Thickness3 = new Pen(new SolidColorBrush(Color.Parse("#7a6fdc")), 3);
+        public static IBrush DeroAccentColorSemi = new SolidColorBrush(Color.Parse("#7a6fdc")) {
+            Opacity = 0.5
+        };
+
+        public static IPen SakirePhoneme = new Pen(new SolidColorBrush(Color.Parse("#e86ef3")), 1);
+        public static IPen SakirePhoneme2 = new Pen(new SolidColorBrush(Color.Parse("#e87ff1")), 1);
+        public static IPen SakireAccentPen2 = new Pen(new SolidColorBrush(Color.Parse("#e87ff1")), 1);
+        public static IPen SakireAccentPen2Thickness3 = new Pen(new SolidColorBrush(Color.Parse("#e87ff1")), 3);
+        public static IBrush SakireAccentColorSemi = new SolidColorBrush(Color.Parse("#e87ff1")) {
+            Opacity = 0.5
+        };
+        
         public static List<TrackColor> TrackColors = new List<TrackColor>(){
                 new TrackColor("Pink", "#F06292", "#EC407A", "#F48FB1", "#FAC7D8"),
                 new TrackColor("Red", "#EF5350", "#E53935", "#E57373", "#F2B9B9"),
@@ -73,6 +103,9 @@ namespace OpenUtau.App {
                 new TrackColor("Light Blue2", "#1976D2", "#0D47A1", "#2196F3", "#90CBF9"),
                 new TrackColor("Blue2", "#3949AB", "#283593", "#5C6BC0", "#AEB5E0"),
                 new TrackColor("Purple2", "#7B1FA2", "#4A148C", "#AB47BC", "#D5A3DE"),
+                new TrackColor("daichi", "#9a4ccf", "#4A148C", "#AB47BC", "#D5A3DE"),
+                new TrackColor("dero", "#4f3ba8", "#332893", "#7a6fdc", "#AEB5E0"),
+                new TrackColor("sakire", "#5eaf4b", "#1B5E20", "#43A047", "#A1D0A3"),
             };
 
         public static void LoadTheme() {

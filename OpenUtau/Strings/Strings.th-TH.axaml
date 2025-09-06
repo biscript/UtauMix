@@ -193,6 +193,8 @@
   <system:String x:Key="menu.file.exportustto">ส่งออกไฟล์ Ust ไปยัง...</system:String>
   <system:String x:Key="menu.file.exportwav">ส่งออกไฟล์ Wav</system:String>
   <system:String x:Key="menu.file.exportwavto">ส่งออกไฟล์ Wav ไปยัง...</system:String>
+  <system:String x:Key="menu.file.exportmp3">ส่งออกไฟล์ MP3</system:String>
+  <system:String x:Key="menu.file.exportmp3to">ส่งออกไฟล์ MP3 ไปยัง...</system:String>
   <system:String x:Key="menu.file.importaudio">นำเข้า Audio...</system:String>
   <system:String x:Key="menu.file.importmidi">นำเข้า Midi...</system:String>
   <!--<system:String x:Key="menu.file.importmidi.drywetmidi">DryWetMidi Importer</system:String>-->
