@@ -1,6 +1,4 @@
-﻿using NAudio.Wave;
-using NAudio.Lame;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
@@ -401,46 +399,14 @@ namespace OpenUtau.App.Views {
             }
         }
 
-// Экспорт микса сразу в MP3
-async void OnMenuExportMixdownToMp3(object sender, RoutedEventArgs args) {
-    var project = DocManager.Inst.Project;
-    var mp3File = await FilePicker.SaveFileAboutProject(
-        this, "menu.file.exportmixdowntomp3", FilePicker.MP3);
-
-    if (!string.IsNullOrEmpty(mp3File)) {
-        // Сначала рендерим во временный WAV
-        string tempWav = Path.ChangeExtension(mp3File, ".wav");
-        await PlaybackManager.Inst.RenderMixdown(project, tempWav);
-
-        // Конвертируем WAV → MP3
-        ConvertWavToMp3(tempWav, mp3File);
-
-        // Удаляем временный WAV
-        File.Delete(tempWav);
-    }
-}
-
-// Вспомогательный метод конвертации WAV → MP3
-void ConvertWavToMp3(string wavPath, string mp3Path) {
-    using (var reader = new AudioFileReader(wavPath))
-    using (var writer = new LameMP3FileWriter(mp3Path, reader.WaveFormat, LAMEPreset.STANDARD)) {
-        reader.CopyTo(writer);
-    }
-}
-
-
-        async void OnMenuExportDsTo(object sender, RoutedEventArgs e)
-        {
+        async void OnMenuExportDsTo(object sender, RoutedEventArgs e) {
             var project = DocManager.Inst.Project;
             var file = await FilePicker.SaveFileAboutProject(
                 this, "menu.file.exportds", FilePicker.DS);
-            if (!string.IsNullOrEmpty(file))
-            {
-                for (var i = 0; i < project.parts.Count; i++)
-                {
+            if (!string.IsNullOrEmpty(file)) {
+                for (var i = 0; i < project.parts.Count; i++) {
                     var part = project.parts[i];
-                    if (part is UVoicePart voicePart)
-                    {
+                    if (part is UVoicePart voicePart) {
                         var savePath = PathManager.Inst.GetPartSavePath(file, voicePart.DisplayName, i)[..^4] + ".ds";
                         DiffSingerScript.SavePart(project, voicePart, savePath);
                         DocManager.Inst.ExecuteCmd(new ProgressBarNotification(0, $"{savePath}."));
