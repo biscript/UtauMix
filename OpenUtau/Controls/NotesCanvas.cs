@@ -205,125 +205,92 @@ namespace OpenUtau.App.Controls {
             context.DrawRectangle(Brushes.Transparent, null, Bounds.WithX(0).WithY(0));
         }
 
-        private DispatcherTimer? glowTimer;
 
-private void InitializeGlowTimer() {
-    if (glowTimer == null) {
-        glowTimer = new DispatcherTimer();
-        glowTimer.Interval = TimeSpan.FromMilliseconds(250); // мигание 2 раза в секунду
-        glowTimer.Tick += (_, __) => this.InvalidateVisual(); // перерисовать Canvas
-        glowTimer.Start();
+        private void RenderNoteBody(UNote note, UPart? part, NotesViewModel viewModel, DrawingContext context) {
+    Point leftTop = viewModel.TickToneToPoint(note.position, note.tone);
+    leftTop = leftTop.WithX(leftTop.X + 1).WithY(Math.Round(leftTop.Y + 1));
+    Size size = viewModel.TickToneToSize(note.duration, 1);
+    size = size.WithWidth(size.Width - 1).WithHeight(Math.Floor(size.Height - 2));
+    Point rightBottom = new Point(leftTop.X + size.Width, leftTop.Y + size.Height);
+
+    var project = DocManager.Inst.Project;
+    var singerName = string.Empty;
+    if (part != null && project != null) {
+        var trackNo = part.trackNo;
+        if (trackNo >= 0 && trackNo < project.tracks.Count) {
+            singerName = project.tracks[trackNo].Singer?.Name ?? string.Empty;
+        }
+    }
+
+    var singerColors = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
+        { "Daichi", "daichi" },
+        { "Dero", "dero" },
+        { "Sakire", "sakire" }
+    };
+    bool isDaichi = singerName.IndexOf("daichi", StringComparison.OrdinalIgnoreCase) >= 0;
+    bool isDero = singerName.IndexOf("dero", StringComparison.OrdinalIgnoreCase) >= 0;
+    bool isSakire = singerName.IndexOf("sakire", StringComparison.OrdinalIgnoreCase) >= 0;
+    bool isSelected = selectedNotes.Contains(note);
+    IBrush brush;
+    IPen borderPen;
+    string? matchedSinger = singerColors.Keys.FirstOrDefault(singer => singerName.IndexOf(singer, StringComparison.OrdinalIgnoreCase) >= 0);
+    if (matchedSinger != null) {
+        var manager = ThemeManager.GetTrackColor(singerColors[matchedSinger]);
+        brush = isSelected
+            ? (note.Error ? manager.AccentColorLightSemi : manager.AccentColorLight)
+            : (note.Error ? manager.AccentColor : manager.AccentColor);
+        borderPen = isSelected
+            ? (matchedSinger == "Daichi" ? ThemeManager.DaichiNoteBorderSelected :
+               matchedSinger == "Dero" ? ThemeManager.DeroNoteBorderSelected :
+               ThemeManager.SakireNoteBorderSelected)
+            : (matchedSinger == "Daichi" ? ThemeManager.DaichiNoteBorder :
+               matchedSinger == "Dero" ? ThemeManager.DeroNoteBorder :
+               ThemeManager.SakireNoteBorder);
+    } else {
+        brush = isSelected
+            ? (note.Error ? ThemeManager.AccentBrush2Semi : ThemeManager.AccentBrush2)
+            : (note.Error ? ThemeManager.AccentBrush1Semi : ThemeManager.AccentBrush1);
+        borderPen = isSelected ? ThemeManager.DefaultNoteBorderSelected : ThemeManager.DefaultNoteBorder;
+    }
+
+    // Отрисовка ноты с обводкой
+    context.DrawRectangle(brush, borderPen, new Rect(leftTop, rightBottom), 6, 6);
+
+    // Отрисовка текста лирики
+    if (TrackHeight < 10 || note.lyric.Length == 0) {
+        return;
+    }
+    string displayLyric = note.lyric;
+    int txtsize = 12;
+    IBrush textbrush = Brushes.Black;
+    var textLayout = TextLayoutCache.Get(displayLyric, Brushes.Black, txtsize);
+    if (isDaichi || isDero || isSakire) {
+        textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
+    }
+    if (txtsize > size.Height) {
+        return;
+    }
+    if (textLayout.Height + 5 < size.Height) {
+        txtsize = (int)(12 * (size.Height / textLayout.Height));
+        if (isDaichi || isDero || isSakire) {
+            textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
+        }
+    }
+    if (textLayout.Width + 5 > size.Width) {
+        displayLyric = displayLyric[0] + "..";
+        if (isDaichi || isDero || isSakire) {
+            textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
+        }
+        if (textLayout.Width + 5 > size.Width) {
+            return;
+        }
+    }
+    Point textPosition = leftTop.WithX(leftTop.X + 5)
+        .WithY(Math.Round(leftTop.Y + (size.Height - textLayout.Height) / 2));
+    using (var state = context.PushTransform(Matrix.CreateTranslation(textPosition.X, textPosition.Y))) {
+        textLayout.Draw(context, new Point());
     }
 }
-
-private void RenderNoteBody(UNote note, UPart? part, NotesViewModel viewModel, DrawingContext context) {
-    InitializeGlowTimer();
-            Point leftTop = viewModel.TickToneToPoint(note.position, note.tone);
-            leftTop = leftTop.WithX(leftTop.X + 1).WithY(Math.Round(leftTop.Y + 1));
-            Size size = viewModel.TickToneToSize(note.duration, 1);
-            size = size.WithWidth(size.Width - 1).WithHeight(Math.Floor(size.Height - 2));
-            Point rightBottom = new Point(leftTop.X + size.Width, leftTop.Y + size.Height);
-
-            var project = DocManager.Inst.Project;
-            var singerName = string.Empty;
-
-            if (part != null && project != null) {
-                var trackNo = part.trackNo;
-                if (trackNo >= 0 && trackNo < project.tracks.Count) {
-                    singerName = project.tracks[trackNo].Singer?.Name ?? string.Empty;
-                }
-            }
-
-            var singerColors = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
-                { "Daichi", "daichi" },
-                { "Dero", "dero" },
-                { "Sakire", "sakire" }
-            };
-            bool isDaichi = singerName.IndexOf("daichi", StringComparison.OrdinalIgnoreCase) >= 0;
-            bool isDero = singerName.IndexOf("dero", StringComparison.OrdinalIgnoreCase) >= 0;
-            bool isSakire = singerName.IndexOf("sakire", StringComparison.OrdinalIgnoreCase) >= 0;
-            IBrush brush;
-
-            string? matchedSinger = singerColors.Keys.FirstOrDefault(singer => singerName.IndexOf(singer, StringComparison.OrdinalIgnoreCase) >= 0);
-            if (matchedSinger != null) {
-                var manager = ThemeManager.GetTrackColor(singerColors[matchedSinger]);
-                brush = selectedNotes.Contains(note)
-                    ? (note.Error ? manager.AccentColorLightSemi : manager.AccentColorLight)
-                    : (note.Error ? manager.AccentColor : manager.AccentColor);
-            } else {
-                brush = selectedNotes.Contains(note)
-                    ? (note.Error ? ThemeManager.AccentBrush2Semi : ThemeManager.AccentBrush2)
-                    : (note.Error ? ThemeManager.AccentBrush1Semi : ThemeManager.AccentBrush1);
-            }
-
-
-
-
-
-bool isSelected = selectedNotes.Contains(note);
-
-    // --- Свечение / мигание ---
-    bool showGlow = true;
-    if (isSelected) {
-        double t = DateTime.Now.TimeOfDay.TotalSeconds;
-        showGlow = (Math.Floor(t * 2) % 2) == 0; // мигаем 0.5 с
-    }
-
-    if (showGlow) {
-        var glowBrush = new RadialGradientBrush {
-            GradientStops = new GradientStops {
-                new GradientStop(Color.FromArgb(200, 180, 150, 255), 0), // яркий фиолетовый
-                new GradientStop(Colors.Transparent, 1)
-            },
-            Center = new RelativePoint(0.5, 0.5, RelativeUnit.Relative),
-            RadiusX = new RelativeScalar(0.5, RelativeUnit.Relative),
-            RadiusY = new RelativeScalar(0.5, RelativeUnit.Relative)
-        };
-
-        var glowRect = new Rect(leftTop.X - 2, leftTop.Y - 2, size.Width + 4, size.Height + 4);
-        context.DrawRectangle(glowBrush, null, glowRect, 6, 6);
-    }
-
-    // Основная нота
-    context.DrawRectangle(brush, null, new Rect(leftTop, rightBottom), 6, 6);
-            if (TrackHeight < 10 || note.lyric.Length == 0) {
-                return;
-            }
-            string displayLyric = note.lyric;
-            int txtsize = 12;
-            IBrush textbrush = Brushes.Black;
-            var textLayout = TextLayoutCache.Get(displayLyric, Brushes.Black, txtsize);
-            if (isDaichi || isDero) {
-                textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
-            } else if (isDero) {
-                textLayout = TextLayoutCache.Get(displayLyric, Brushes.Black, txtsize);
-            }
-            
-            if (txtsize > size.Height) {
-                return;
-            }
-            if (textLayout.Height + 5 < size.Height) {
-                txtsize = (int)(12 * (size.Height / textLayout.Height));
-                if (isDaichi || isDero) {
-                    textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
-                } 
-                
-            }
-            if (textLayout.Width + 5 > size.Width) {
-                displayLyric = displayLyric[0] + "..";
-                if (isDaichi || isDero) {
-                    textLayout = TextLayoutCache.Get(displayLyric, Brushes.White, txtsize);
-                }
-                if (textLayout.Width + 5 > size.Width) {
-                    return;
-                }
-            }
-            Point textPosition = leftTop.WithX(leftTop.X + 5)
-                .WithY(Math.Round(leftTop.Y + (size.Height - textLayout.Height) / 2));
-            using (var state = context.PushTransform(Matrix.CreateTranslation(textPosition.X, textPosition.Y))) {
-                textLayout.Draw(context, new Point());
-            }
-        }
         
         private void RenderGhostNote(UNote note, NotesViewModel viewModel, DrawingContext context, int partOffset, IBrush brush) {
             // REVIEW should ghost note be smaller?

@@ -125,4 +125,7 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+  <AvaloniaResource Include="Strings\Strings.kk-KZ_cyrillic.axaml" />
+</ItemGroup>
 </Project>

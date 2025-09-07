@@ -55,12 +55,20 @@ namespace OpenUtau.App {
         public static IBrush ExpActiveNameBrush = Brushes.White;
         public static IPen DaichiPitchBend = new Pen(new SolidColorBrush(Color.Parse("#7a42d4")), 1);
         public static IBrush DaichiPitchBendBrush = new SolidColorBrush(Color.Parse("#7a42d4"));
+        public static IPen DaichiNoteBorder = new Pen(new SolidColorBrush(Color.Parse("#7035a7")), 2);
+        public static IPen DaichiNoteBorderSelected = new Pen(new SolidColorBrush(Color.Parse("#803dbe")), 2);
+        public static IPen DeroNoteBorder = new Pen(new SolidColorBrush(Color.Parse("#342372")), 2); // Зелёный для Dero
+        public static IPen DeroNoteBorderSelected = new Pen(new SolidColorBrush(Color.Parse("#422e88")), 2);
+        public static IPen SakireNoteBorder = new Pen(new SolidColorBrush(Color.Parse("#247e54")), 2); // Розовый для Sakire
+        public static IPen SakireNoteBorderSelected = new Pen(new SolidColorBrush(Color.Parse("#2e9146")), 2);
+        public static IPen DefaultNoteBorder = new Pen(new SolidColorBrush(Color.Parse("#3b2e6d")), 2); // Серый для обычных нот
+public static IPen DefaultNoteBorderSelected = new Pen(new SolidColorBrush(Color.Parse("#4a3694")), 2); // Светло-серый для выделенных
         public static IPen DeroPitchBend = new Pen(new SolidColorBrush(Color.Parse("#4269d4")), 1);
         public static IBrush DeroPitchBendBrush = new SolidColorBrush(Color.Parse("#4269d4"));
         public static IPen SakirePitchBend = new Pen(new SolidColorBrush(Color.Parse("#5eaf4b")), 1);
         public static IBrush SakirePitchBendBrush = new SolidColorBrush(Color.Parse("#5eaf4b"));
 
-        public static IPen DaichiPhoneme = new Pen(new SolidColorBrush(Color.Parse("#9a4ccf")), 1);
+        public static IPen DaichiPhoneme = new Pen(new SolidColorBrush(Color.Parse("#7f34b1ff")), 1);
         public static IPen DaichiPhoneme2 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 1);
         public static IPen DaichiAccentPen2 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 1);
         public static IPen DaichiAccentPen2Thickness3 = new Pen(new SolidColorBrush(Color.Parse("#b87edf")), 3);
@@ -103,8 +111,8 @@ namespace OpenUtau.App {
                 new TrackColor("Light Blue2", "#1976D2", "#0D47A1", "#2196F3", "#90CBF9"),
                 new TrackColor("Blue2", "#3949AB", "#283593", "#5C6BC0", "#AEB5E0"),
                 new TrackColor("Purple2", "#7B1FA2", "#4A148C", "#AB47BC", "#D5A3DE"),
-                new TrackColor("daichi", "#9a4ccf", "#4A148C", "#AB47BC", "#D5A3DE"),
-                new TrackColor("dero", "#4f3ba8", "#332893", "#7a6fdc", "#AEB5E0"),
+                new TrackColor("daichi", "#a958df", "#4A148C", "#bb70ec", "#b382db"),
+                new TrackColor("dero", "#4f3ba8", "#332893", "#6b4cc0", "#AEB5E0"),
                 new TrackColor("sakire", "#5eaf4b", "#1B5E20", "#43A047", "#A1D0A3"),
             };
 
