@@ -135,6 +135,14 @@ namespace OpenUtau.App.Views {
                 CommandParameter = edit,
             }));
             DocManager.Inst.AddSubscriber(this);
+            ViewModel.PitchBatchEdits.AddRange(new List<BatchEdit>() {
+                new AutoPitchEdit(),
+            }.Select(edit => new MenuItemViewModel() {
+                Header = ThemeManager.GetString(edit.Name),
+                Command = noteBatchEditCommand,
+                CommandParameter = edit,
+            }));
+            DocManager.Inst.AddSubscriber(this);
 
             ViewModel.NoteBatchEdits.Insert(6, new MenuItemViewModel() {
                 Header = ThemeManager.GetString("pianoroll.menu.notes.addbreath"),
