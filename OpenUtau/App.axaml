@@ -41,25 +41,6 @@
     <FluentTheme />
     <StyleInclude Source="avares://Avalonia.Controls.DataGrid/Themes/Fluent.xaml"/>
     <StyleInclude Source="/Styles/Styles.axaml"/>
-	<Style Selector="Button">
-  <Setter Property="Padding" Value="8,2"/> <!-- делаем кнопку пониже -->
-  <Setter Property="Template">
-    <Setter.Value>
-      <ControlTemplate TargetType="Button">
-        <Border Background="{TemplateBinding Background}"
-                BorderBrush="{TemplateBinding BorderBrush}"
-                BorderThickness="{TemplateBinding BorderThickness}"
-                CornerRadius="6"
-                Padding="{TemplateBinding Padding}">
-          <ContentPresenter 
-              Content="{TemplateBinding Content}"
-              HorizontalAlignment="Center"
-              VerticalAlignment="Center"/>
-        </Border>
-      </ControlTemplate>
-    </Setter.Value>
-  </Setter>
-</Style>
   </Application.Styles>
   <NativeMenu.Menu>
     <NativeMenu/>

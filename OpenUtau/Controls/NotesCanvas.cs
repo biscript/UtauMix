@@ -253,8 +253,8 @@ namespace OpenUtau.App.Controls {
         borderPen = isSelected ? ThemeManager.DefaultNoteBorderSelected : ThemeManager.DefaultNoteBorder;
     }
 
-    // Отрисовка ноты с обводкой
-    context.DrawRectangle(brush, borderPen, new Rect(leftTop, rightBottom), 6, 6);
+            // Отрисовка основной ноты
+            context.DrawRectangle(brush, borderPen, new Rect(leftTop, rightBottom), 6, 6);
 
     // Отрисовка текста лирики
     if (TrackHeight < 10 || note.lyric.Length == 0) {
