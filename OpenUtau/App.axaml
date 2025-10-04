@@ -16,8 +16,8 @@
       <ResourceInclude x:Key="strings-id-ID" Source="/Strings/Strings.id-ID.axaml"/>
       <ResourceInclude x:Key="strings-it-IT" Source="/Strings/Strings.it-IT.axaml"/>
       <ResourceInclude x:Key="strings-ja-JP" Source="/Strings/Strings.ja-JP.axaml"/>
-      <ResourceInclude x:Key="strings-kk-KZ_cyrillic" Source="/Strings/Strings.kk-KZ_cyrillic.axaml"/>
-      <ResourceInclude x:Key="strings-kk-KZ_latinic" Source="/Strings/Strings.kk-KZ_latinic.axaml"/>
+      <ResourceInclude x:Key="strings-kk-KZ" Source="/Strings/Strings.kk-KZ_cyrillic.axaml"/>
+      <ResourceInclude x:Key="strings-kk-Latn-KZ" Source="/Strings/Strings.kk-KZ_latinic.axaml"/>
       <ResourceInclude x:Key="strings-ko-KR" Source="/Strings/Strings.ko-KR.axaml"/>
       <ResourceInclude x:Key="strings-nl-NL" Source="/Strings/Strings.nl-NL.axaml"/>
       <ResourceInclude x:Key="strings-pl-PL" Source="/Strings/Strings.pl-PL.axaml"/>
@@ -38,7 +38,7 @@
     <FluentTheme />
     <StyleInclude Source="avares://Avalonia.Controls.DataGrid/Themes/Fluent.xaml"/>
     <StyleInclude Source="/Styles/Styles.axaml"/>
-	<Style Selector="Button">
+  <Style Selector="Button">
   <Setter Property="Padding" Value="8,2"/> <!-- делаем кнопку пониже -->
   <Setter Property="Template">
     <Setter.Value>
