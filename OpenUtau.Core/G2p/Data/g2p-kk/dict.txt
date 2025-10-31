@@ -1,3 +1,34 @@
+ә ae
+и ii
+ү iu
+і i
+ө io
+е e
+а a
+й iy
+ұ ou
+ы y
+о o
+у u
+б b
+д d
+л l
+н n
+р r
+с s
+т t
+п p
+м m
+ш' sh
+ж j
+х x
+һ h
+з z
+ң ng
+г g
+к k
+ғ gh
+қ q
 0 n io l
 1 b i r
 2 e k i
