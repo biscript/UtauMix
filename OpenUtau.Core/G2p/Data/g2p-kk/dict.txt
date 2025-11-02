@@ -29,6 +29,5607 @@
 к  k
 ғ  gh
 қ  q
+ә  ae
+и  ii
+ү  iu
+і  i
+ө  io
+е  e
+а  a
+й  iy
+ұ  ou
+ы  y
+о  o
+у  u
+б  b
+д  d
+л  l
+н  n
+р  r
+с  s
+т  t
+п  p
+м  m
+ш  sh
+ж  j
+х  x
+һ  h
+з  z
+ң  ng
+г  g
+к  k
+ғ  gh
+қ  q
+ә  ae
+и  ii
+ү  iu
+і  i
+ө  io
+е  e
+а  a
+й  iy
+ұ  ou
+ы  y
+о  o
+у  u
+б  b
+д  d
+л  l
+н  n
+р  r
+с  s
+т  t
+п  p
+м  m
+ш  sh
+ж  j
+х  x
+һ  h
+з  z
+ң  ng
+г  g
+к  k
+ғ  gh
+қ  q
+би  b ii
+бу  b u
+ди  d ii
+ду  d u
+ли  l ii
+лу  l u
+ни  n ii
+ну  n u
+ңи  ng ii
+ңу  ng u
+ри  r ii
+ру  r u
+си  s ii
+су  s u
+ти  t ii
+ту  t u
+пи  p ii
+пу  p u
+ми  m ii
+му  m u
+ши  sh ii
+шу  sh u
+жи  j ii
+жу  j u
+хи  x ii
+ху  x u
+һи  h ii
+һу  h u
+зи  z ii
+зу  z u
+бә  b ae
+бе  b e
+бү  b iu
+бі  b i
+бө  b io
+дә  d ae
+де  d e
+дү  d iu
+ді  d i
+дө  d io
+лә  l ae
+ле  l e
+лү  l iu
+лі  l i
+лө  l io
+нә  n ae
+не  n e
+нү  n iu
+ні  n i
+нө  n io
+ңә  ng ae
+ңе  ng e
+ңү  ng iu
+ңі  ng i
+ңө  ng io
+рә  r ae
+ре  r e
+рү  r iu
+рі  r i
+рө  r io
+сә  s ae
+се  s e
+сү  s iu
+сі  s i
+сө  s io
+тә  t ae
+те  t e
+тү  t iu
+ті  t i
+тө  t io
+пә  p ae
+пе  p e
+пү  p iu
+пі  p i
+пө  p io
+мә  m ae
+ме  m e
+мү  m iu
+мі  m i
+мө  m io
+шә  sh ae
+ше  sh e
+шү  sh iu
+ші  sh i
+шө  sh io
+жә  j ae
+же  j e
+жү  j iu
+жі  j i
+жө  j io
+хә  x ae
+хе  x e
+хү  x iu
+хі  x i
+хө  x io
+һә  h ae
+һе  h e
+һү  h iu
+һі  h i
+һө  h io
+зә  z ae
+зе  z e
+зү  z iu
+зі  z i
+зө  z io
+ба  b a
+бұ  b ou
+бы  b y
+бо  b o
+да  d a
+дұ  d ou
+ды  d y
+до  d o
+ла  l a
+лұ  l ou
+лы  l y
+ло  l o
+на  n a
+нұ  n ou
+ны  n y
+но  n o
+ңа  ng a
+ңұ  ng ou
+ңы  ng y
+ңо  ng o
+ра  r a
+рұ  r ou
+ры  r y
+ро  r o
+са  s a
+сұ  s ou
+сы  s y
+со  s o
+та  t a
+тұ  t ou
+ты  t y
+то  t o
+па  p a
+пұ  p ou
+пы  p y
+по  p o
+ма  m a
+мұ  m ou
+мы  m y
+мо  m o
+ша  sh a
+шұ  sh ou
+шы  sh y
+шо  sh o
+жа  j a
+жұ  j ou
+жы  j y
+жо  j o
+ха  x a
+хұ  x ou
+хы  x y
+хо  x o
+һа  h a
+һұ  h ou
+һы  h y
+һо  h o
+за  z a
+зұ  z ou
+зы  z y
+зо  z o
+ги  g ii
+гу  g u
+ки  k ii
+ку  k u
+ғи  gh ii
+ғу  gh u
+қи  q ii
+қу  q u
+бә  b ae
+бе  b e
+бү  b iu
+бі  b i
+бө  b io
+дә  d ae
+де  d e
+дү  d iu
+ді  d i
+дө  d io
+лә  l ae
+ле  l e
+лү  l iu
+лі  l i
+лө  l io
+нә  n ae
+не  n e
+нү  n iu
+ні  n i
+нө  n io
+ңә  ng ae
+ңе  ng e
+ңү  ng iu
+ңі  ng i
+ңө  ng io
+рә  r ae
+ре  r e
+рү  r iu
+рі  r i
+рө  r io
+сә  s ae
+се  s e
+сү  s iu
+сі  s i
+сө  s io
+тә  t ae
+те  t e
+тү  t iu
+ті  t i
+тө  t io
+пә  p ae
+пе  p e
+пү  p iu
+пі  p i
+пө  p io
+мә  m ae
+ме  m e
+мү  m iu
+мі  m i
+мө  m io
+шә  sh ae
+ше  sh e
+шү  sh iu
+ші  sh i
+шө  sh io
+жә  j ae
+же  j e
+жү  j iu
+жі  j i
+жө  j io
+хә  x ae
+хе  x e
+хү  x iu
+хі  x i
+хө  x io
+һә  h ae
+һе  h e
+һү  h iu
+һі  h i
+һө  h io
+зә  z ae
+зе  z e
+зү  z iu
+зі  z i
+зө  z io
+ба  b a
+бұ  b ou
+бы  b y
+бо  b o
+да  d a
+дұ  d ou
+ды  d y
+до  d o
+ла  l a
+лұ  l ou
+лы  l y
+ло  l o
+на  n a
+нұ  n ou
+ны  n y
+но  n o
+ңа  ng a
+ңұ  ng ou
+ңы  ng y
+ңо  ng o
+ра  r a
+рұ  r ou
+ры  r y
+ро  r o
+са  s a
+сұ  s ou
+сы  s y
+со  s o
+та  t a
+тұ  t ou
+ты  t y
+то  t o
+па  p a
+пұ  p ou
+пы  p y
+по  p o
+ма  m a
+мұ  m ou
+мы  m y
+мо  m o
+ша  sh a
+шұ  sh ou
+шы  sh y
+шо  sh o
+жа  j a
+жұ  j ou
+жы  j y
+жо  j o
+ха  x a
+хұ  x ou
+хы  x y
+хо  x o
+һа  h a
+һұ  h ou
+һы  h y
+һо  h o
+за  z a
+зұ  z ou
+зы  z y
+зо  z o
+гә  g ae
+ге  g e
+гү  g iu
+гі  g i
+гө  g io
+кә  k ae
+ке  k e
+кү  k iu
+кі  k i
+кө  k io
+ға  gh a
+ғұ  gh ou
+ғы  gh y
+ғо  gh o
+қа  q a
+құ  q ou
+қы  q y
+қо  q o
+бә  b ae
+бе  b e
+бү  b iu
+бі  b i
+бө  b io
+дә  d ae
+де  d e
+дү  d iu
+ді  d i
+дө  d io
+лә  l ae
+ле  l e
+лү  l iu
+лі  l i
+лө  l io
+нә  n ae
+не  n e
+нү  n iu
+ні  n i
+нө  n io
+ңә  ng ae
+ңе  ng e
+ңү  ng iu
+ңі  ng i
+ңө  ng io
+рә  r ae
+ре  r e
+рү  r iu
+рі  r i
+рө  r io
+сә  s ae
+се  s e
+сү  s iu
+сі  s i
+сө  s io
+тә  t ae
+те  t e
+тү  t iu
+ті  t i
+тө  t io
+пә  p ae
+пе  p e
+пү  p iu
+пі  p i
+пө  p io
+мә  m ae
+ме  m e
+мү  m iu
+мі  m i
+мө  m io
+шә  sh ae
+ше  sh e
+шү  sh iu
+ші  sh i
+шө  sh io
+жә  j ae
+же  j e
+жү  j iu
+жі  j i
+жө  j io
+хә  x ae
+хе  x e
+хү  x iu
+хі  x i
+хө  x io
+һә  h ae
+һе  h e
+һү  h iu
+һі  h i
+һө  h io
+зә  z ae
+зе  z e
+зү  z iu
+зі  z i
+зө  z io
+ба  b a
+бұ  b ou
+бы  b y
+бо  b o
+да  d a
+дұ  d ou
+ды  d y
+до  d o
+ла  l a
+лұ  l ou
+лы  l y
+ло  l o
+на  n a
+нұ  n ou
+ны  n y
+но  n o
+ңа  ng a
+ңұ  ng ou
+ңы  ng y
+ңо  ng o
+ра  r a
+рұ  r ou
+ры  r y
+ро  r o
+са  s a
+сұ  s ou
+сы  s y
+со  s o
+та  t a
+тұ  t ou
+ты  t y
+то  t o
+па  p a
+пұ  p ou
+пы  p y
+по  p o
+ма  m a
+мұ  m ou
+мы  m y
+мо  m o
+ша  sh a
+шұ  sh ou
+шы  sh y
+шо  sh o
+жа  j a
+жұ  j ou
+жы  j y
+жо  j o
+ха  x a
+хұ  x ou
+хы  x y
+хо  x o
+һа  h a
+һұ  h ou
+һы  h y
+һо  h o
+за  z a
+зұ  z ou
+зы  z y
+зо  z o
+ги  g ii
+гу  g u
+ки  k ii
+ку  k u
+ғи  gh ii
+ғу  gh u
+қи  q ii
+қу  q u
+гә  g ae
+ге  g e
+гү  g iu
+гі  g i
+гө  g io
+кә  k ae
+ке  k e
+кү  k iu
+кі  k i
+кө  k io
+ға  gh a
+ғұ  gh ou
+ғы  gh y
+ғо  gh o
+қа  q a
+құ  q ou
+қы  q y
+қо  q o
+иб  ii b
+ид  ii d
+ил  ii l
+ин  ii n
+иң  ii ng
+ир  ii r
+ис  ii s
+ит  ii t
+ип  ii p
+им  ii m
+иш  ii sh
+иж  ii j
+их  ii x
+иһ  ii h
+из  ii z
+уб  u b
+уд  u d
+ул  u l
+ун  u n
+уң  u ng
+ур  u r
+ус  u s
+ут  u t
+уп  u p
+ум  u m
+уш  u sh
+уж  u j
+ух  u x
+уһ  u h
+уз  u z
+иг  ii g
+ик  ii k
+уг  u g
+ук  u k
+иғ  ii gh
+иқ  ii q
+уғ  u gh
+уқ  u q
+әб  ae b
+әд  ae d
+әл  ae l
+ән  ae n
+әң  ae ng
+әр  ae r
+әс  ae s
+әт  ae t
+әп  ae p
+әм  ae m
+әш  ae sh
+әж  ae j
+әх  ae x
+әһ  ae h
+әз  ae z
+еб  e b
+ед  e d
+ел  e l
+ен  e n
+ең  e ng
+ер  e r
+ес  e s
+ет  e t
+еп  e p
+ем  e m
+еш  e sh
+еж  e j
+ех  e x
+еһ  e h
+ез  e z
+үб  iu b
+үд  iu d
+үл  iu l
+үн  iu n
+үң  iu ng
+үр  iu r
+үс  iu s
+үт  iu t
+үп  iu p
+үм  iu m
+үш  iu sh
+үж  iu j
+үх  iu x
+үһ  iu h
+үз  iu z
+іб  i b
+ід  i d
+іл  i l
+ін  i n
+ің  i ng
+ір  i r
+іс  i s
+іт  i t
+іп  i p
+ім  i m
+іш  i sh
+іж  i j
+іх  i x
+іһ  i h
+із  i z
+өб  io b
+өд  io d
+өл  io l
+өн  io n
+өң  io ng
+өр  io r
+өс  io s
+өт  io t
+өп  io p
+өм  io m
+өш  io sh
+өж  io j
+өх  io x
+өһ  io h
+өз  io z
+аб  a b
+ад  a d
+ал  a l
+ан  a n
+аң  a ng
+ар  a r
+ас  a s
+ат  a t
+ап  a p
+ам  a m
+аш  a sh
+аж  a j
+ах  a x
+аһ  a h
+аз  a z
+ұб  ou b
+ұд  ou d
+ұл  ou l
+ұн  ou n
+ұң  ou ng
+ұр  ou r
+ұс  ou s
+ұт  ou t
+ұп  ou p
+ұм  ou m
+ұш  ou sh
+ұж  ou j
+ұх  ou x
+ұһ  ou h
+ұз  ou z
+ыб  y b
+ыд  y d
+ыл  y l
+ын  y n
+ың  y ng
+ыр  y r
+ыс  y s
+ыт  y t
+ып  y p
+ым  y m
+ыш  y sh
+ыж  y j
+ых  y x
+ыһ  y h
+ыз  y z
+об  o b
+од  o d
+ол  o l
+он  o n
+оң  o ng
+ор  o r
+ос  o s
+от  o t
+оп  o p
+ом  o m
+ош  o sh
+ож  o j
+ох  o x
+оһ  o h
+оз  o z
+иг  ii g
+ик  ii k
+уг  u g
+ук  u k
+иғ  ii gh
+иқ  ii q
+уғ  u gh
+уқ  u q
+әг  ae g
+әк  ae k
+ег  e g
+ек  e k
+үг  iu g
+үк  iu k
+іг  i g
+ік  i k
+өг  io g
+өк  io k
+ағ  a gh
+ақ  a q
+ұғ  ou gh
+ұқ  ou q
+ығ  y gh
+ық  y q
+оғ  o gh
+оқ  o q
+иг  ii g
+ик  ii k
+уг  u g
+ук  u k
+иғ  ii gh
+иқ  ii q
+уғ  u gh
+уқ  u q
+әб  ae b
+әд  ae d
+әл  ae l
+ән  ae n
+әң  ae ng
+әр  ae r
+әс  ae s
+әт  ae t
+әп  ae p
+әм  ae m
+әш  ae sh
+әж  ae j
+әх  ae x
+әһ  ae h
+әз  ae z
+еб  e b
+ед  e d
+ел  e l
+ен  e n
+ең  e ng
+ер  e r
+ес  e s
+ет  e t
+еп  e p
+ем  e m
+еш  e sh
+еж  e j
+ех  e x
+еһ  e h
+ез  e z
+үб  iu b
+үд  iu d
+үл  iu l
+үн  iu n
+үң  iu ng
+үр  iu r
+үс  iu s
+үт  iu t
+үп  iu p
+үм  iu m
+үш  iu sh
+үж  iu j
+үх  iu x
+үһ  iu h
+үз  iu z
+іб  i b
+ід  i d
+іл  i l
+ін  i n
+ің  i ng
+ір  i r
+іс  i s
+іт  i t
+іп  i p
+ім  i m
+іш  i sh
+іж  i j
+іх  i x
+іһ  i h
+із  i z
+өб  io b
+өд  io d
+өл  io l
+өн  io n
+өң  io ng
+өр  io r
+өс  io s
+өт  io t
+өп  io p
+өм  io m
+өш  io sh
+өж  io j
+өх  io x
+өһ  io h
+өз  io z
+аб  a b
+ад  a d
+ал  a l
+ан  a n
+аң  a ng
+ар  a r
+ас  a s
+ат  a t
+ап  a p
+ам  a m
+аш  a sh
+аж  a j
+ах  a x
+аһ  a h
+аз  a z
+ұб  ou b
+ұд  ou d
+ұл  ou l
+ұн  ou n
+ұң  ou ng
+ұр  ou r
+ұс  ou s
+ұт  ou t
+ұп  ou p
+ұм  ou m
+ұш  ou sh
+ұж  ou j
+ұх  ou x
+ұһ  ou h
+ұз  ou z
+ыб  y b
+ыд  y d
+ыл  y l
+ын  y n
+ың  y ng
+ыр  y r
+ыс  y s
+ыт  y t
+ып  y p
+ым  y m
+ыш  y sh
+ыж  y j
+ых  y x
+ыһ  y h
+ыз  y z
+об  o b
+од  o d
+ол  o l
+он  o n
+оң  o ng
+ор  o r
+ос  o s
+от  o t
+оп  o p
+ом  o m
+ош  o sh
+ож  o j
+ох  o x
+оһ  o h
+оз  o z
+әг  ae g
+әк  ae k
+ег  e g
+ек  e k
+үг  iu g
+үк  iu k
+іг  i g
+ік  i k
+өг  io g
+өк  io k
+ағ  a gh
+ақ  a q
+ұғ  ou gh
+ұқ  ou q
+ығ  y gh
+ық  y q
+оғ  o gh
+оқ  o q
+иби  ii b ii
+ибу  ii b u
+иди  ii d ii
+иду  ii d u
+или  ii l ii
+илу  ii l u
+ини  ii n ii
+ину  ii n u
+иңи  ii ng ii
+иңу  ii ng u
+ири  ii r ii
+иру  ii r u
+иси  ii s ii
+ису  ii s u
+ити  ii t ii
+иту  ii t u
+ипи  ii p ii
+ипу  ii p u
+ими  ii m ii
+иму  ii m u
+иши  ii sh ii
+ишу  ii sh u
+ижи  ii j ii
+ижу  ii j u
+ихи  ii x ii
+иху  ii x u
+иһи  ii h ii
+иһу  ii h u
+изи  ii z ii
+изу  ii z u
+уби  u b ii
+убу  u b u
+уди  u d ii
+уду  u d u
+ули  u l ii
+улу  u l u
+уни  u n ii
+уну  u n u
+уңи  u ng ii
+уңу  u ng u
+ури  u r ii
+уру  u r u
+уси  u s ii
+усу  u s u
+ути  u t ii
+уту  u t u
+упи  u p ii
+упу  u p u
+уми  u m ii
+уму  u m u
+уши  u sh ii
+ушу  u sh u
+ужи  u j ii
+ужу  u j u
+ухи  u x ii
+уху  u x u
+уһи  u h ii
+уһу  u h u
+узи  u z ii
+узу  u z u
+ибә  ii b ae
+ибе  ii b e
+ибү  ii b iu
+ибі  ii b i
+ибө  ii b io
+идә  ii d ae
+иде  ii d e
+идү  ii d iu
+иді  ii d i
+идө  ii d io
+илә  ii l ae
+иле  ii l e
+илү  ii l iu
+илі  ii l i
+илө  ii l io
+инә  ii n ae
+ине  ii n e
+инү  ii n iu
+ині  ii n i
+инө  ii n io
+иңә  ii ng ae
+иңе  ii ng e
+иңү  ii ng iu
+иңі  ii ng i
+иңө  ii ng io
+ирә  ii r ae
+ире  ii r e
+ирү  ii r iu
+ирі  ii r i
+ирө  ii r io
+исә  ii s ae
+исе  ii s e
+исү  ii s iu
+исі  ii s i
+исө  ii s io
+итә  ii t ae
+ите  ii t e
+итү  ii t iu
+иті  ii t i
+итө  ii t io
+ипә  ii p ae
+ипе  ii p e
+ипү  ii p iu
+ипі  ii p i
+ипө  ii p io
+имә  ii m ae
+име  ii m e
+имү  ii m iu
+имі  ii m i
+имө  ii m io
+ишә  ii sh ae
+ише  ii sh e
+ишү  ii sh iu
+иші  ii sh i
+ишө  ii sh io
+ижә  ii j ae
+иже  ii j e
+ижү  ii j iu
+ижі  ii j i
+ижө  ii j io
+ихә  ii x ae
+ихе  ii x e
+ихү  ii x iu
+ихі  ii x i
+ихө  ii x io
+иһә  ii h ae
+иһе  ii h e
+иһү  ii h iu
+иһі  ii h i
+иһө  ii h io
+изә  ii z ae
+изе  ii z e
+изү  ii z iu
+изі  ii z i
+изө  ii z io
+убә  u b ae
+убе  u b e
+убү  u b iu
+убі  u b i
+убө  u b io
+удә  u d ae
+уде  u d e
+удү  u d iu
+уді  u d i
+удө  u d io
+улә  u l ae
+уле  u l e
+улү  u l iu
+улі  u l i
+улө  u l io
+унә  u n ae
+уне  u n e
+унү  u n iu
+уні  u n i
+унө  u n io
+уңә  u ng ae
+уңе  u ng e
+уңү  u ng iu
+уңі  u ng i
+уңө  u ng io
+урә  u r ae
+уре  u r e
+урү  u r iu
+урі  u r i
+урө  u r io
+усә  u s ae
+усе  u s e
+усү  u s iu
+усі  u s i
+усө  u s io
+утә  u t ae
+уте  u t e
+утү  u t iu
+уті  u t i
+утө  u t io
+упә  u p ae
+упе  u p e
+упү  u p iu
+упі  u p i
+упө  u p io
+умә  u m ae
+уме  u m e
+умү  u m iu
+умі  u m i
+умө  u m io
+ушә  u sh ae
+уше  u sh e
+ушү  u sh iu
+уші  u sh i
+ушө  u sh io
+ужә  u j ae
+уже  u j e
+ужү  u j iu
+ужі  u j i
+ужө  u j io
+ухә  u x ae
+ухе  u x e
+ухү  u x iu
+ухі  u x i
+ухө  u x io
+уһә  u h ae
+уһе  u h e
+уһү  u h iu
+уһі  u h i
+уһө  u h io
+узә  u z ae
+узе  u z e
+узү  u z iu
+узі  u z i
+узө  u z io
+иба  ii b a
+ибұ  ii b ou
+ибы  ii b y
+ибо  ii b o
+ида  ii d a
+идұ  ii d ou
+иды  ii d y
+идо  ii d o
+ила  ii l a
+илұ  ii l ou
+илы  ii l y
+ило  ii l o
+ина  ii n a
+инұ  ii n ou
+ины  ii n y
+ино  ii n o
+иңа  ii ng a
+иңұ  ii ng ou
+иңы  ii ng y
+иңо  ii ng o
+ира  ii r a
+ирұ  ii r ou
+иры  ii r y
+иро  ii r o
+иса  ii s a
+исұ  ii s ou
+исы  ii s y
+исо  ii s o
+ита  ii t a
+итұ  ii t ou
+иты  ii t y
+ито  ii t o
+ипа  ii p a
+ипұ  ii p ou
+ипы  ii p y
+ипо  ii p o
+има  ii m a
+имұ  ii m ou
+имы  ii m y
+имо  ii m o
+иша  ii sh a
+ишұ  ii sh ou
+ишы  ii sh y
+ишо  ii sh o
+ижа  ii j a
+ижұ  ii j ou
+ижы  ii j y
+ижо  ii j o
+иха  ii x a
+ихұ  ii x ou
+ихы  ii x y
+ихо  ii x o
+иһа  ii h a
+иһұ  ii h ou
+иһы  ii h y
+иһо  ii h o
+иза  ii z a
+изұ  ii z ou
+изы  ii z y
+изо  ii z o
+уба  u b a
+убұ  u b ou
+убы  u b y
+убо  u b o
+уда  u d a
+удұ  u d ou
+уды  u d y
+удо  u d o
+ула  u l a
+улұ  u l ou
+улы  u l y
+уло  u l o
+уна  u n a
+унұ  u n ou
+уны  u n y
+уно  u n o
+уңа  u ng a
+уңұ  u ng ou
+уңы  u ng y
+уңо  u ng o
+ура  u r a
+урұ  u r ou
+уры  u r y
+уро  u r o
+уса  u s a
+усұ  u s ou
+усы  u s y
+усо  u s o
+ута  u t a
+утұ  u t ou
+уты  u t y
+уто  u t o
+упа  u p a
+упұ  u p ou
+упы  u p y
+упо  u p o
+ума  u m a
+умұ  u m ou
+умы  u m y
+умо  u m o
+уша  u sh a
+ушұ  u sh ou
+ушы  u sh y
+ушо  u sh o
+ужа  u j a
+ужұ  u j ou
+ужы  u j y
+ужо  u j o
+уха  u x a
+ухұ  u x ou
+ухы  u x y
+ухо  u x o
+уһа  u h a
+уһұ  u h ou
+уһы  u h y
+уһо  u h o
+уза  u z a
+узұ  u z ou
+узы  u z y
+узо  u z o
+әби  ae b ii
+әбу  ae b u
+әди  ae d ii
+әду  ae d u
+әли  ae l ii
+әлу  ae l u
+әни  ae n ii
+әну  ae n u
+әңи  ae ng ii
+әңу  ae ng u
+әри  ae r ii
+әру  ae r u
+әси  ae s ii
+әсу  ae s u
+әти  ae t ii
+әту  ae t u
+әпи  ae p ii
+әпу  ae p u
+әми  ae m ii
+әму  ae m u
+әши  ae sh ii
+әшу  ae sh u
+әжи  ae j ii
+әжу  ae j u
+әхи  ae x ii
+әху  ae x u
+әһи  ae h ii
+әһу  ae h u
+әзи  ae z ii
+әзу  ae z u
+еби  e b ii
+ебу  e b u
+еди  e d ii
+еду  e d u
+ели  e l ii
+елу  e l u
+ени  e n ii
+ену  e n u
+еңи  e ng ii
+еңу  e ng u
+ери  e r ii
+еру  e r u
+еси  e s ii
+есу  e s u
+ети  e t ii
+ету  e t u
+епи  e p ii
+епу  e p u
+еми  e m ii
+ему  e m u
+еши  e sh ii
+ешу  e sh u
+ежи  e j ii
+ежу  e j u
+ехи  e x ii
+еху  e x u
+еһи  e h ii
+еһу  e h u
+ези  e z ii
+езу  e z u
+үби  iu b ii
+үбу  iu b u
+үди  iu d ii
+үду  iu d u
+үли  iu l ii
+үлу  iu l u
+үни  iu n ii
+үну  iu n u
+үңи  iu ng ii
+үңу  iu ng u
+үри  iu r ii
+үру  iu r u
+үси  iu s ii
+үсу  iu s u
+үти  iu t ii
+үту  iu t u
+үпи  iu p ii
+үпу  iu p u
+үми  iu m ii
+үму  iu m u
+үши  iu sh ii
+үшу  iu sh u
+үжи  iu j ii
+үжу  iu j u
+үхи  iu x ii
+үху  iu x u
+үһи  iu h ii
+үһу  iu h u
+үзи  iu z ii
+үзу  iu z u
+іби  i b ii
+ібу  i b u
+іди  i d ii
+іду  i d u
+іли  i l ii
+ілу  i l u
+іни  i n ii
+іну  i n u
+іңи  i ng ii
+іңу  i ng u
+іри  i r ii
+іру  i r u
+іси  i s ii
+ісу  i s u
+іти  i t ii
+іту  i t u
+іпи  i p ii
+іпу  i p u
+іми  i m ii
+іму  i m u
+іши  i sh ii
+ішу  i sh u
+іжи  i j ii
+іжу  i j u
+іхи  i x ii
+іху  i x u
+іһи  i h ii
+іһу  i h u
+ізи  i z ii
+ізу  i z u
+өби  io b ii
+өбу  io b u
+өди  io d ii
+өду  io d u
+өли  io l ii
+өлу  io l u
+өни  io n ii
+өну  io n u
+өңи  io ng ii
+өңу  io ng u
+өри  io r ii
+өру  io r u
+өси  io s ii
+өсу  io s u
+өти  io t ii
+өту  io t u
+өпи  io p ii
+өпу  io p u
+өми  io m ii
+өму  io m u
+өши  io sh ii
+өшу  io sh u
+өжи  io j ii
+өжу  io j u
+өхи  io x ii
+өху  io x u
+өһи  io h ii
+өһу  io h u
+өзи  io z ii
+өзу  io z u
+аби  a b ii
+абу  a b u
+ади  a d ii
+аду  a d u
+али  a l ii
+алу  a l u
+ани  a n ii
+ану  a n u
+аңи  a ng ii
+аңу  a ng u
+ари  a r ii
+ару  a r u
+аси  a s ii
+асу  a s u
+ати  a t ii
+ату  a t u
+апи  a p ii
+апу  a p u
+ами  a m ii
+аму  a m u
+аши  a sh ii
+ашу  a sh u
+ажи  a j ii
+ажу  a j u
+ахи  a x ii
+аху  a x u
+аһи  a h ii
+аһу  a h u
+ази  a z ii
+азу  a z u
+ұби  ou b ii
+ұбу  ou b u
+ұди  ou d ii
+ұду  ou d u
+ұли  ou l ii
+ұлу  ou l u
+ұни  ou n ii
+ұну  ou n u
+ұңи  ou ng ii
+ұңу  ou ng u
+ұри  ou r ii
+ұру  ou r u
+ұси  ou s ii
+ұсу  ou s u
+ұти  ou t ii
+ұту  ou t u
+ұпи  ou p ii
+ұпу  ou p u
+ұми  ou m ii
+ұму  ou m u
+ұши  ou sh ii
+ұшу  ou sh u
+ұжи  ou j ii
+ұжу  ou j u
+ұхи  ou x ii
+ұху  ou x u
+ұһи  ou h ii
+ұһу  ou h u
+ұзи  ou z ii
+ұзу  ou z u
+ыби  y b ii
+ыбу  y b u
+ыди  y d ii
+ыду  y d u
+ыли  y l ii
+ылу  y l u
+ыни  y n ii
+ыну  y n u
+ыңи  y ng ii
+ыңу  y ng u
+ыри  y r ii
+ыру  y r u
+ыси  y s ii
+ысу  y s u
+ыти  y t ii
+ыту  y t u
+ыпи  y p ii
+ыпу  y p u
+ыми  y m ii
+ыму  y m u
+ыши  y sh ii
+ышу  y sh u
+ыжи  y j ii
+ыжу  y j u
+ыхи  y x ii
+ыху  y x u
+ыһи  y h ii
+ыһу  y h u
+ызи  y z ii
+ызу  y z u
+оби  o b ii
+обу  o b u
+оди  o d ii
+оду  o d u
+оли  o l ii
+олу  o l u
+они  o n ii
+ону  o n u
+оңи  o ng ii
+оңу  o ng u
+ори  o r ii
+ору  o r u
+оси  o s ii
+осу  o s u
+оти  o t ii
+оту  o t u
+опи  o p ii
+опу  o p u
+оми  o m ii
+ому  o m u
+оши  o sh ii
+ошу  o sh u
+ожи  o j ii
+ожу  o j u
+охи  o x ii
+оху  o x u
+оһи  o h ii
+оһу  o h u
+ози  o z ii
+озу  o z u
+иги  ii g ii
+игу  ii g u
+ики  ii k ii
+ику  ii k u
+уги  u g ii
+угу  u g u
+уки  u k ii
+уку  u k u
+иғи  ii gh ii
+иғу  ii gh u
+иқи  ii q ii
+иқу  ii q u
+уғи  u gh ii
+уғу  u gh u
+уқи  u q ii
+уқу  u q u
+әги  ae g ii
+әгу  ae g u
+әки  ae k ii
+әку  ae k u
+еги  e g ii
+егу  e g u
+еки  e k ii
+еку  e k u
+үги  iu g ii
+үгу  iu g u
+үки  iu k ii
+үку  iu k u
+іги  i g ii
+ігу  i g u
+іки  i k ii
+іку  i k u
+өги  io g ii
+өгу  io g u
+өки  io k ii
+өку  io k u
+ағи  a gh ii
+ағу  a gh u
+ақи  a q ii
+ақу  a q u
+ұғи  ou gh ii
+ұғу  ou gh u
+ұқи  ou q ii
+ұқу  ou q u
+ығи  y gh ii
+ығу  y gh u
+ықи  y q ii
+ықу  y q u
+оғи  o gh ii
+оғу  o gh u
+оқи  o q ii
+оқу  o q u
+игә  ii g ae
+иге  ii g e
+игү  ii g iu
+игі  ii g i
+игө  ii g io
+икә  ii k ae
+ике  ii k e
+икү  ii k iu
+икі  ii k i
+икө  ii k io
+угә  u g ae
+уге  u g e
+угү  u g iu
+угі  u g i
+угө  u g io
+укә  u k ae
+уке  u k e
+укү  u k iu
+укі  u k i
+укө  u k io
+иға  ii gh a
+иғұ  ii gh ou
+иғы  ii gh y
+иғо  ii gh o
+иқа  ii q a
+иқұ  ii q ou
+иқы  ii q y
+иқо  ii q o
+уға  u gh a
+уғұ  u gh ou
+уғы  u gh y
+уғо  u gh o
+уқа  u q a
+уқұ  u q ou
+уқы  u q y
+уқо  u q o
+әбә  ae b ae
+әбе  ae b e
+әбү  ae b iu
+әбі  ae b i
+әбө  ae b io
+әдә  ae d ae
+әде  ae d e
+әдү  ae d iu
+әді  ae d i
+әдө  ae d io
+әлә  ae l ae
+әле  ae l e
+әлү  ae l iu
+әлі  ae l i
+әлө  ae l io
+әнә  ae n ae
+әне  ae n e
+әнү  ae n iu
+әні  ae n i
+әнө  ae n io
+әңә  ae ng ae
+әңе  ae ng e
+әңү  ae ng iu
+әңі  ae ng i
+әңө  ae ng io
+әрә  ae r ae
+әре  ae r e
+әрү  ae r iu
+әрі  ae r i
+әрө  ae r io
+әсә  ae s ae
+әсе  ae s e
+әсү  ae s iu
+әсі  ae s i
+әсө  ae s io
+әтә  ae t ae
+әте  ae t e
+әтү  ae t iu
+әті  ae t i
+әтө  ae t io
+әпә  ae p ae
+әпе  ae p e
+әпү  ae p iu
+әпі  ae p i
+әпө  ae p io
+әмә  ae m ae
+әме  ae m e
+әмү  ae m iu
+әмі  ae m i
+әмө  ae m io
+әшә  ae sh ae
+әше  ae sh e
+әшү  ae sh iu
+әші  ae sh i
+әшө  ae sh io
+әжә  ae j ae
+әже  ae j e
+әжү  ae j iu
+әжі  ae j i
+әжө  ae j io
+әхә  ae x ae
+әхе  ae x e
+әхү  ae x iu
+әхі  ae x i
+әхө  ae x io
+әһә  ae h ae
+әһе  ae h e
+әһү  ae h iu
+әһі  ae h i
+әһө  ae h io
+әзә  ae z ae
+әзе  ae z e
+әзү  ae z iu
+әзі  ae z i
+әзө  ae z io
+ебә  e b ae
+ебе  e b e
+ебү  e b iu
+ебі  e b i
+ебө  e b io
+едә  e d ae
+еде  e d e
+едү  e d iu
+еді  e d i
+едө  e d io
+елә  e l ae
+еле  e l e
+елү  e l iu
+елі  e l i
+елө  e l io
+енә  e n ae
+ене  e n e
+енү  e n iu
+ені  e n i
+енө  e n io
+еңә  e ng ae
+еңе  e ng e
+еңү  e ng iu
+еңі  e ng i
+еңө  e ng io
+ерә  e r ae
+ере  e r e
+ерү  e r iu
+ері  e r i
+ерө  e r io
+есә  e s ae
+есе  e s e
+есү  e s iu
+есі  e s i
+есө  e s io
+етә  e t ae
+ете  e t e
+етү  e t iu
+еті  e t i
+етө  e t io
+епә  e p ae
+епе  e p e
+епү  e p iu
+епі  e p i
+епө  e p io
+емә  e m ae
+еме  e m e
+емү  e m iu
+емі  e m i
+емө  e m io
+ешә  e sh ae
+еше  e sh e
+ешү  e sh iu
+еші  e sh i
+ешө  e sh io
+ежә  e j ae
+еже  e j e
+ежү  e j iu
+ежі  e j i
+ежө  e j io
+ехә  e x ae
+ехе  e x e
+ехү  e x iu
+ехі  e x i
+ехө  e x io
+еһә  e h ae
+еһе  e h e
+еһү  e h iu
+еһі  e h i
+еһө  e h io
+езә  e z ae
+езе  e z e
+езү  e z iu
+езі  e z i
+езө  e z io
+үбә  iu b ae
+үбе  iu b e
+үбү  iu b iu
+үбі  iu b i
+үбө  iu b io
+үдә  iu d ae
+үде  iu d e
+үдү  iu d iu
+үді  iu d i
+үдө  iu d io
+үлә  iu l ae
+үле  iu l e
+үлү  iu l iu
+үлі  iu l i
+үлө  iu l io
+үнә  iu n ae
+үне  iu n e
+үнү  iu n iu
+үні  iu n i
+үнө  iu n io
+үңә  iu ng ae
+үңе  iu ng e
+үңү  iu ng iu
+үңі  iu ng i
+үңө  iu ng io
+үрә  iu r ae
+үре  iu r e
+үрү  iu r iu
+үрі  iu r i
+үрө  iu r io
+үсә  iu s ae
+үсе  iu s e
+үсү  iu s iu
+үсі  iu s i
+үсө  iu s io
+үтә  iu t ae
+үте  iu t e
+үтү  iu t iu
+үті  iu t i
+үтө  iu t io
+үпә  iu p ae
+үпе  iu p e
+үпү  iu p iu
+үпі  iu p i
+үпө  iu p io
+үмә  iu m ae
+үме  iu m e
+үмү  iu m iu
+үмі  iu m i
+үмө  iu m io
+үшә  iu sh ae
+үше  iu sh e
+үшү  iu sh iu
+үші  iu sh i
+үшө  iu sh io
+үжә  iu j ae
+үже  iu j e
+үжү  iu j iu
+үжі  iu j i
+үжө  iu j io
+үхә  iu x ae
+үхе  iu x e
+үхү  iu x iu
+үхі  iu x i
+үхө  iu x io
+үһә  iu h ae
+үһе  iu h e
+үһү  iu h iu
+үһі  iu h i
+үһө  iu h io
+үзә  iu z ae
+үзе  iu z e
+үзү  iu z iu
+үзі  iu z i
+үзө  iu z io
+ібә  i b ae
+ібе  i b e
+ібү  i b iu
+ібі  i b i
+ібө  i b io
+ідә  i d ae
+іде  i d e
+ідү  i d iu
+іді  i d i
+ідө  i d io
+ілә  i l ae
+іле  i l e
+ілү  i l iu
+ілі  i l i
+ілө  i l io
+інә  i n ae
+іне  i n e
+інү  i n iu
+іні  i n i
+інө  i n io
+іңә  i ng ae
+іңе  i ng e
+іңү  i ng iu
+іңі  i ng i
+іңө  i ng io
+ірә  i r ae
+іре  i r e
+ірү  i r iu
+ірі  i r i
+ірө  i r io
+ісә  i s ae
+ісе  i s e
+ісү  i s iu
+ісі  i s i
+ісө  i s io
+ітә  i t ae
+іте  i t e
+ітү  i t iu
+іті  i t i
+ітө  i t io
+іпә  i p ae
+іпе  i p e
+іпү  i p iu
+іпі  i p i
+іпө  i p io
+імә  i m ae
+іме  i m e
+імү  i m iu
+імі  i m i
+імө  i m io
+ішә  i sh ae
+іше  i sh e
+ішү  i sh iu
+іші  i sh i
+ішө  i sh io
+іжә  i j ae
+іже  i j e
+іжү  i j iu
+іжі  i j i
+іжө  i j io
+іхә  i x ae
+іхе  i x e
+іхү  i x iu
+іхі  i x i
+іхө  i x io
+іһә  i h ae
+іһе  i h e
+іһү  i h iu
+іһі  i h i
+іһө  i h io
+ізә  i z ae
+ізе  i z e
+ізү  i z iu
+ізі  i z i
+ізө  i z io
+өбә  io b ae
+өбе  io b e
+өбү  io b iu
+өбі  io b i
+өбө  io b io
+өдә  io d ae
+өде  io d e
+өдү  io d iu
+өді  io d i
+өдө  io d io
+өлә  io l ae
+өле  io l e
+өлү  io l iu
+өлі  io l i
+өлө  io l io
+өнә  io n ae
+өне  io n e
+өнү  io n iu
+өні  io n i
+өнө  io n io
+өңә  io ng ae
+өңе  io ng e
+өңү  io ng iu
+өңі  io ng i
+өңө  io ng io
+өрә  io r ae
+өре  io r e
+өрү  io r iu
+өрі  io r i
+өрө  io r io
+өсә  io s ae
+өсе  io s e
+өсү  io s iu
+өсі  io s i
+өсө  io s io
+өтә  io t ae
+өте  io t e
+өтү  io t iu
+өті  io t i
+өтө  io t io
+өпә  io p ae
+өпе  io p e
+өпү  io p iu
+өпі  io p i
+өпө  io p io
+өмә  io m ae
+өме  io m e
+өмү  io m iu
+өмі  io m i
+өмө  io m io
+өшә  io sh ae
+өше  io sh e
+өшү  io sh iu
+өші  io sh i
+өшө  io sh io
+өжә  io j ae
+өже  io j e
+өжү  io j iu
+өжі  io j i
+өжө  io j io
+өхә  io x ae
+өхе  io x e
+өхү  io x iu
+өхі  io x i
+өхө  io x io
+өһә  io h ae
+өһе  io h e
+өһү  io h iu
+өһі  io h i
+өһө  io h io
+өзә  io z ae
+өзе  io z e
+өзү  io z iu
+өзі  io z i
+өзө  io z io
+аба  a b a
+абұ  a b ou
+абы  a b y
+або  a b o
+ада  a d a
+адұ  a d ou
+ады  a d y
+адо  a d o
+ала  a l a
+алұ  a l ou
+алы  a l y
+ало  a l o
+ана  a n a
+анұ  a n ou
+аны  a n y
+ано  a n o
+аңа  a ng a
+аңұ  a ng ou
+аңы  a ng y
+аңо  a ng o
+ара  a r a
+арұ  a r ou
+ары  a r y
+аро  a r o
+аса  a s a
+асұ  a s ou
+асы  a s y
+асо  a s o
+ата  a t a
+атұ  a t ou
+аты  a t y
+ато  a t o
+апа  a p a
+апұ  a p ou
+апы  a p y
+апо  a p o
+ама  a m a
+амұ  a m ou
+амы  a m y
+амо  a m o
+аша  a sh a
+ашұ  a sh ou
+ашы  a sh y
+ашо  a sh o
+ажа  a j a
+ажұ  a j ou
+ажы  a j y
+ажо  a j o
+аха  a x a
+ахұ  a x ou
+ахы  a x y
+ахо  a x o
+аһа  a h a
+аһұ  a h ou
+аһы  a h y
+аһо  a h o
+аза  a z a
+азұ  a z ou
+азы  a z y
+азо  a z o
+ұба  ou b a
+ұбұ  ou b ou
+ұбы  ou b y
+ұбо  ou b o
+ұда  ou d a
+ұдұ  ou d ou
+ұды  ou d y
+ұдо  ou d o
+ұла  ou l a
+ұлұ  ou l ou
+ұлы  ou l y
+ұло  ou l o
+ұна  ou n a
+ұнұ  ou n ou
+ұны  ou n y
+ұно  ou n o
+ұңа  ou ng a
+ұңұ  ou ng ou
+ұңы  ou ng y
+ұңо  ou ng o
+ұра  ou r a
+ұрұ  ou r ou
+ұры  ou r y
+ұро  ou r o
+ұса  ou s a
+ұсұ  ou s ou
+ұсы  ou s y
+ұсо  ou s o
+ұта  ou t a
+ұтұ  ou t ou
+ұты  ou t y
+ұто  ou t o
+ұпа  ou p a
+ұпұ  ou p ou
+ұпы  ou p y
+ұпо  ou p o
+ұма  ou m a
+ұмұ  ou m ou
+ұмы  ou m y
+ұмо  ou m o
+ұша  ou sh a
+ұшұ  ou sh ou
+ұшы  ou sh y
+ұшо  ou sh o
+ұжа  ou j a
+ұжұ  ou j ou
+ұжы  ou j y
+ұжо  ou j o
+ұха  ou x a
+ұхұ  ou x ou
+ұхы  ou x y
+ұхо  ou x o
+ұһа  ou h a
+ұһұ  ou h ou
+ұһы  ou h y
+ұһо  ou h o
+ұза  ou z a
+ұзұ  ou z ou
+ұзы  ou z y
+ұзо  ou z o
+ыба  y b a
+ыбұ  y b ou
+ыбы  y b y
+ыбо  y b o
+ыда  y d a
+ыдұ  y d ou
+ыды  y d y
+ыдо  y d o
+ыла  y l a
+ылұ  y l ou
+ылы  y l y
+ыло  y l o
+ына  y n a
+ынұ  y n ou
+ыны  y n y
+ыно  y n o
+ыңа  y ng a
+ыңұ  y ng ou
+ыңы  y ng y
+ыңо  y ng o
+ыра  y r a
+ырұ  y r ou
+ыры  y r y
+ыро  y r o
+ыса  y s a
+ысұ  y s ou
+ысы  y s y
+ысо  y s o
+ыта  y t a
+ытұ  y t ou
+ыты  y t y
+ыто  y t o
+ыпа  y p a
+ыпұ  y p ou
+ыпы  y p y
+ыпо  y p o
+ыма  y m a
+ымұ  y m ou
+ымы  y m y
+ымо  y m o
+ыша  y sh a
+ышұ  y sh ou
+ышы  y sh y
+ышо  y sh o
+ыжа  y j a
+ыжұ  y j ou
+ыжы  y j y
+ыжо  y j o
+ыха  y x a
+ыхұ  y x ou
+ыхы  y x y
+ыхо  y x o
+ыһа  y h a
+ыһұ  y h ou
+ыһы  y h y
+ыһо  y h o
+ыза  y z a
+ызұ  y z ou
+ызы  y z y
+ызо  y z o
+оба  o b a
+обұ  o b ou
+обы  o b y
+обо  o b o
+ода  o d a
+одұ  o d ou
+оды  o d y
+одо  o d o
+ола  o l a
+олұ  o l ou
+олы  o l y
+оло  o l o
+она  o n a
+онұ  o n ou
+оны  o n y
+оно  o n o
+оңа  o ng a
+оңұ  o ng ou
+оңы  o ng y
+оңо  o ng o
+ора  o r a
+орұ  o r ou
+оры  o r y
+оро  o r o
+оса  o s a
+осұ  o s ou
+осы  o s y
+осо  o s o
+ота  o t a
+отұ  o t ou
+оты  o t y
+ото  o t o
+опа  o p a
+опұ  o p ou
+опы  o p y
+опо  o p o
+ома  o m a
+омұ  o m ou
+омы  o m y
+омо  o m o
+оша  o sh a
+ошұ  o sh ou
+ошы  o sh y
+ошо  o sh o
+ожа  o j a
+ожұ  o j ou
+ожы  o j y
+ожо  o j o
+оха  o x a
+охұ  o x ou
+охы  o x y
+охо  o x o
+оһа  o h a
+оһұ  o h ou
+оһы  o h y
+оһо  o h o
+оза  o z a
+озұ  o z ou
+озы  o z y
+озо  o z o
+әгә  ae g ae
+әге  ae g e
+әгү  ae g iu
+әгі  ae g i
+әгө  ae g io
+әкә  ae k ae
+әке  ae k e
+әкү  ae k iu
+әкі  ae k i
+әкө  ae k io
+егә  e g ae
+еге  e g e
+егү  e g iu
+егі  e g i
+егө  e g io
+екә  e k ae
+еке  e k e
+екү  e k iu
+екі  e k i
+екө  e k io
+үгә  iu g ae
+үге  iu g e
+үгү  iu g iu
+үгі  iu g i
+үгө  iu g io
+үкә  iu k ae
+үке  iu k e
+үкү  iu k iu
+үкі  iu k i
+үкө  iu k io
+ігә  i g ae
+іге  i g e
+ігү  i g iu
+ігі  i g i
+ігө  i g io
+ікә  i k ae
+іке  i k e
+ікү  i k iu
+ікі  i k i
+ікө  i k io
+өгә  io g ae
+өге  io g e
+өгү  io g iu
+өгі  io g i
+өгө  io g io
+өкә  io k ae
+өке  io k e
+өкү  io k iu
+өкі  io k i
+өкө  io k io
+аға  a gh a
+ағұ  a gh ou
+ағы  a gh y
+ағо  a gh o
+ақа  a q a
+ақұ  a q ou
+ақы  a q y
+ақо  a q o
+ұға  ou gh a
+ұғұ  ou gh ou
+ұғы  ou gh y
+ұғо  ou gh o
+ұқа  ou q a
+ұқұ  ou q ou
+ұқы  ou q y
+ұқо  ou q o
+ыға  y gh a
+ығұ  y gh ou
+ығы  y gh y
+ығо  y gh o
+ықа  y q a
+ықұ  y q ou
+ықы  y q y
+ықо  y q o
+оға  o gh a
+оғұ  o gh ou
+оғы  o gh y
+оғо  o gh o
+оқа  o q a
+оқұ  o q ou
+оқы  o q y
+оқо  o q o
+биб  b ii b
+бид  b ii d
+бил  b ii l
+бин  b ii n
+биң  b ii ng
+бир  b ii r
+бис  b ii s
+бит  b ii t
+бип  b ii p
+бим  b ii m
+биш  b ii sh
+биж  b ii j
+бих  b ii x
+биһ  b ii h
+биз  b ii z
+буб  b u b
+буд  b u d
+бул  b u l
+бун  b u n
+буң  b u ng
+бур  b u r
+бус  b u s
+бут  b u t
+буп  b u p
+бум  b u m
+буш  b u sh
+буж  b u j
+бух  b u x
+буһ  b u h
+буз  b u z
+диб  d ii b
+дид  d ii d
+дил  d ii l
+дин  d ii n
+диң  d ii ng
+дир  d ii r
+дис  d ii s
+дит  d ii t
+дип  d ii p
+дим  d ii m
+диш  d ii sh
+диж  d ii j
+дих  d ii x
+диһ  d ii h
+диз  d ii z
+дуб  d u b
+дуд  d u d
+дул  d u l
+дун  d u n
+дуң  d u ng
+дур  d u r
+дус  d u s
+дут  d u t
+дуп  d u p
+дум  d u m
+душ  d u sh
+дуж  d u j
+дух  d u x
+дуһ  d u h
+дуз  d u z
+либ  l ii b
+лид  l ii d
+лил  l ii l
+лин  l ii n
+лиң  l ii ng
+лир  l ii r
+лис  l ii s
+лит  l ii t
+лип  l ii p
+лим  l ii m
+лиш  l ii sh
+лиж  l ii j
+лих  l ii x
+лиһ  l ii h
+лиз  l ii z
+луб  l u b
+луд  l u d
+лул  l u l
+лун  l u n
+луң  l u ng
+лур  l u r
+лус  l u s
+лут  l u t
+луп  l u p
+лум  l u m
+луш  l u sh
+луж  l u j
+лух  l u x
+луһ  l u h
+луз  l u z
+ниб  n ii b
+нид  n ii d
+нил  n ii l
+нин  n ii n
+ниң  n ii ng
+нир  n ii r
+нис  n ii s
+нит  n ii t
+нип  n ii p
+ним  n ii m
+ниш  n ii sh
+ниж  n ii j
+них  n ii x
+ниһ  n ii h
+низ  n ii z
+нуб  n u b
+нуд  n u d
+нул  n u l
+нун  n u n
+нуң  n u ng
+нур  n u r
+нус  n u s
+нут  n u t
+нуп  n u p
+нум  n u m
+нуш  n u sh
+нуж  n u j
+нух  n u x
+нуһ  n u h
+нуз  n u z
+ңиб  ng ii b
+ңид  ng ii d
+ңил  ng ii l
+ңин  ng ii n
+ңиң  ng ii ng
+ңир  ng ii r
+ңис  ng ii s
+ңит  ng ii t
+ңип  ng ii p
+ңим  ng ii m
+ңиш  ng ii sh
+ңиж  ng ii j
+ңих  ng ii x
+ңиһ  ng ii h
+ңиз  ng ii z
+ңуб  ng u b
+ңуд  ng u d
+ңул  ng u l
+ңун  ng u n
+ңуң  ng u ng
+ңур  ng u r
+ңус  ng u s
+ңут  ng u t
+ңуп  ng u p
+ңум  ng u m
+ңуш  ng u sh
+ңуж  ng u j
+ңух  ng u x
+ңуһ  ng u h
+ңуз  ng u z
+риб  r ii b
+рид  r ii d
+рил  r ii l
+рин  r ii n
+риң  r ii ng
+рир  r ii r
+рис  r ii s
+рит  r ii t
+рип  r ii p
+рим  r ii m
+риш  r ii sh
+риж  r ii j
+рих  r ii x
+риһ  r ii h
+риз  r ii z
+руб  r u b
+руд  r u d
+рул  r u l
+рун  r u n
+руң  r u ng
+рур  r u r
+рус  r u s
+рут  r u t
+руп  r u p
+рум  r u m
+руш  r u sh
+руж  r u j
+рух  r u x
+руһ  r u h
+руз  r u z
+сиб  s ii b
+сид  s ii d
+сил  s ii l
+син  s ii n
+сиң  s ii ng
+сир  s ii r
+сис  s ii s
+сит  s ii t
+сип  s ii p
+сим  s ii m
+сиш  s ii sh
+сиж  s ii j
+сих  s ii x
+сиһ  s ii h
+сиз  s ii z
+суб  s u b
+суд  s u d
+сул  s u l
+сун  s u n
+суң  s u ng
+сур  s u r
+сус  s u s
+сут  s u t
+суп  s u p
+сум  s u m
+суш  s u sh
+суж  s u j
+сух  s u x
+суһ  s u h
+суз  s u z
+тиб  t ii b
+тид  t ii d
+тил  t ii l
+тин  t ii n
+тиң  t ii ng
+тир  t ii r
+тис  t ii s
+тит  t ii t
+тип  t ii p
+тим  t ii m
+тиш  t ii sh
+тиж  t ii j
+тих  t ii x
+тиһ  t ii h
+тиз  t ii z
+туб  t u b
+туд  t u d
+тул  t u l
+тун  t u n
+туң  t u ng
+тур  t u r
+тус  t u s
+тут  t u t
+туп  t u p
+тум  t u m
+туш  t u sh
+туж  t u j
+тух  t u x
+туһ  t u h
+туз  t u z
+пиб  p ii b
+пид  p ii d
+пил  p ii l
+пин  p ii n
+пиң  p ii ng
+пир  p ii r
+пис  p ii s
+пит  p ii t
+пип  p ii p
+пим  p ii m
+пиш  p ii sh
+пиж  p ii j
+пих  p ii x
+пиһ  p ii h
+пиз  p ii z
+пуб  p u b
+пуд  p u d
+пул  p u l
+пун  p u n
+пуң  p u ng
+пур  p u r
+пус  p u s
+пут  p u t
+пуп  p u p
+пум  p u m
+пуш  p u sh
+пуж  p u j
+пух  p u x
+пуһ  p u h
+пуз  p u z
+миб  m ii b
+мид  m ii d
+мил  m ii l
+мин  m ii n
+миң  m ii ng
+мир  m ii r
+мис  m ii s
+мит  m ii t
+мип  m ii p
+мим  m ii m
+миш  m ii sh
+миж  m ii j
+мих  m ii x
+миһ  m ii h
+миз  m ii z
+муб  m u b
+муд  m u d
+мул  m u l
+мун  m u n
+муң  m u ng
+мур  m u r
+мус  m u s
+мут  m u t
+муп  m u p
+мум  m u m
+муш  m u sh
+муж  m u j
+мух  m u x
+муһ  m u h
+муз  m u z
+шиб  sh ii b
+шид  sh ii d
+шил  sh ii l
+шин  sh ii n
+шиң  sh ii ng
+шир  sh ii r
+шис  sh ii s
+шит  sh ii t
+шип  sh ii p
+шим  sh ii m
+шиш  sh ii sh
+шиж  sh ii j
+ших  sh ii x
+шиһ  sh ii h
+шиз  sh ii z
+шуб  sh u b
+шуд  sh u d
+шул  sh u l
+шун  sh u n
+шуң  sh u ng
+шур  sh u r
+шус  sh u s
+шут  sh u t
+шуп  sh u p
+шум  sh u m
+шуш  sh u sh
+шуж  sh u j
+шух  sh u x
+шуһ  sh u h
+шуз  sh u z
+жиб  j ii b
+жид  j ii d
+жил  j ii l
+жин  j ii n
+жиң  j ii ng
+жир  j ii r
+жис  j ii s
+жит  j ii t
+жип  j ii p
+жим  j ii m
+жиш  j ii sh
+жиж  j ii j
+жих  j ii x
+жиһ  j ii h
+жиз  j ii z
+жуб  j u b
+жуд  j u d
+жул  j u l
+жун  j u n
+жуң  j u ng
+жур  j u r
+жус  j u s
+жут  j u t
+жуп  j u p
+жум  j u m
+жуш  j u sh
+жуж  j u j
+жух  j u x
+жуһ  j u h
+жуз  j u z
+хиб  x ii b
+хид  x ii d
+хил  x ii l
+хин  x ii n
+хиң  x ii ng
+хир  x ii r
+хис  x ii s
+хит  x ii t
+хип  x ii p
+хим  x ii m
+хиш  x ii sh
+хиж  x ii j
+хих  x ii x
+хиһ  x ii h
+хиз  x ii z
+хуб  x u b
+худ  x u d
+хул  x u l
+хун  x u n
+хуң  x u ng
+хур  x u r
+хус  x u s
+хут  x u t
+хуп  x u p
+хум  x u m
+хуш  x u sh
+хуж  x u j
+хух  x u x
+хуһ  x u h
+хуз  x u z
+һиб  h ii b
+һид  h ii d
+һил  h ii l
+һин  h ii n
+һиң  h ii ng
+һир  h ii r
+һис  h ii s
+һит  h ii t
+һип  h ii p
+һим  h ii m
+һиш  h ii sh
+һиж  h ii j
+һих  h ii x
+һиһ  h ii h
+һиз  h ii z
+һуб  h u b
+һуд  h u d
+һул  h u l
+һун  h u n
+һуң  h u ng
+һур  h u r
+һус  h u s
+һут  h u t
+һуп  h u p
+һум  h u m
+һуш  h u sh
+һуж  h u j
+һух  h u x
+һуһ  h u h
+һуз  h u z
+зиб  z ii b
+зид  z ii d
+зил  z ii l
+зин  z ii n
+зиң  z ii ng
+зир  z ii r
+зис  z ii s
+зит  z ii t
+зип  z ii p
+зим  z ii m
+зиш  z ii sh
+зиж  z ii j
+зих  z ii x
+зиһ  z ii h
+зиз  z ii z
+зуб  z u b
+зуд  z u d
+зул  z u l
+зун  z u n
+зуң  z u ng
+зур  z u r
+зус  z u s
+зут  z u t
+зуп  z u p
+зум  z u m
+зуш  z u sh
+зуж  z u j
+зух  z u x
+зуһ  z u h
+зуз  z u z
+биг  b ii g
+бик  b ii k
+буг  b u g
+бук  b u k
+диг  d ii g
+дик  d ii k
+дуг  d u g
+дук  d u k
+лиг  l ii g
+лик  l ii k
+луг  l u g
+лук  l u k
+ниг  n ii g
+ник  n ii k
+нуг  n u g
+нук  n u k
+ңиг  ng ii g
+ңик  ng ii k
+ңуг  ng u g
+ңук  ng u k
+риг  r ii g
+рик  r ii k
+руг  r u g
+рук  r u k
+сиг  s ii g
+сик  s ii k
+суг  s u g
+сук  s u k
+тиг  t ii g
+тик  t ii k
+туг  t u g
+тук  t u k
+пиг  p ii g
+пик  p ii k
+пуг  p u g
+пук  p u k
+миг  m ii g
+мик  m ii k
+муг  m u g
+мук  m u k
+шиг  sh ii g
+шик  sh ii k
+шуг  sh u g
+шук  sh u k
+жиг  j ii g
+жик  j ii k
+жуг  j u g
+жук  j u k
+хиг  x ii g
+хик  x ii k
+хуг  x u g
+хук  x u k
+һиг  h ii g
+һик  h ii k
+һуг  h u g
+һук  h u k
+зиг  z ii g
+зик  z ii k
+зуг  z u g
+зук  z u k
+биғ  b ii gh
+биқ  b ii q
+буғ  b u gh
+буқ  b u q
+диғ  d ii gh
+диқ  d ii q
+дуғ  d u gh
+дуқ  d u q
+лиғ  l ii gh
+лиқ  l ii q
+луғ  l u gh
+луқ  l u q
+ниғ  n ii gh
+ниқ  n ii q
+нуғ  n u gh
+нуқ  n u q
+ңиғ  ng ii gh
+ңиқ  ng ii q
+ңуғ  ng u gh
+ңуқ  ng u q
+риғ  r ii gh
+риқ  r ii q
+руғ  r u gh
+руқ  r u q
+сиғ  s ii gh
+сиқ  s ii q
+суғ  s u gh
+суқ  s u q
+тиғ  t ii gh
+тиқ  t ii q
+туғ  t u gh
+туқ  t u q
+пиғ  p ii gh
+пиқ  p ii q
+пуғ  p u gh
+пуқ  p u q
+миғ  m ii gh
+миқ  m ii q
+муғ  m u gh
+муқ  m u q
+шиғ  sh ii gh
+шиқ  sh ii q
+шуғ  sh u gh
+шуқ  sh u q
+жиғ  j ii gh
+жиқ  j ii q
+жуғ  j u gh
+жуқ  j u q
+хиғ  x ii gh
+хиқ  x ii q
+хуғ  x u gh
+хуқ  x u q
+һиғ  h ii gh
+һиқ  h ii q
+һуғ  h u gh
+һуқ  h u q
+зиғ  z ii gh
+зиқ  z ii q
+зуғ  z u gh
+зуқ  z u q
+гиб  g ii b
+гид  g ii d
+гил  g ii l
+гин  g ii n
+гиң  g ii ng
+гир  g ii r
+гис  g ii s
+гит  g ii t
+гип  g ii p
+гим  g ii m
+гиш  g ii sh
+гиж  g ii j
+гих  g ii x
+гиһ  g ii h
+гиз  g ii z
+губ  g u b
+гуд  g u d
+гул  g u l
+гун  g u n
+гуң  g u ng
+гур  g u r
+гус  g u s
+гут  g u t
+гуп  g u p
+гум  g u m
+гуш  g u sh
+гуж  g u j
+гух  g u x
+гуһ  g u h
+гуз  g u z
+киб  k ii b
+кид  k ii d
+кил  k ii l
+кин  k ii n
+киң  k ii ng
+кир  k ii r
+кис  k ii s
+кит  k ii t
+кип  k ii p
+ким  k ii m
+киш  k ii sh
+киж  k ii j
+ких  k ii x
+киһ  k ii h
+киз  k ii z
+куб  k u b
+куд  k u d
+кул  k u l
+кун  k u n
+куң  k u ng
+кур  k u r
+кус  k u s
+кут  k u t
+куп  k u p
+кум  k u m
+куш  k u sh
+куж  k u j
+кух  k u x
+куһ  k u h
+куз  k u z
+ғиб  gh ii b
+ғид  gh ii d
+ғил  gh ii l
+ғин  gh ii n
+ғиң  gh ii ng
+ғир  gh ii r
+ғис  gh ii s
+ғит  gh ii t
+ғип  gh ii p
+ғим  gh ii m
+ғиш  gh ii sh
+ғиж  gh ii j
+ғих  gh ii x
+ғиһ  gh ii h
+ғиз  gh ii z
+ғуб  gh u b
+ғуд  gh u d
+ғул  gh u l
+ғун  gh u n
+ғуң  gh u ng
+ғур  gh u r
+ғус  gh u s
+ғут  gh u t
+ғуп  gh u p
+ғум  gh u m
+ғуш  gh u sh
+ғуж  gh u j
+ғух  gh u x
+ғуһ  gh u h
+ғуз  gh u z
+қиб  q ii b
+қид  q ii d
+қил  q ii l
+қин  q ii n
+қиң  q ii ng
+қир  q ii r
+қис  q ii s
+қит  q ii t
+қип  q ii p
+қим  q ii m
+қиш  q ii sh
+қиж  q ii j
+қих  q ii x
+қиһ  q ii h
+қиз  q ii z
+қуб  q u b
+қуд  q u d
+қул  q u l
+қун  q u n
+қуң  q u ng
+қур  q u r
+қус  q u s
+қут  q u t
+қуп  q u p
+қум  q u m
+қуш  q u sh
+қуж  q u j
+қух  q u x
+қуһ  q u h
+қуз  q u z
+бәб  b ae b
+бәд  b ae d
+бәл  b ae l
+бән  b ae n
+бәң  b ae ng
+бәр  b ae r
+бәс  b ae s
+бәт  b ae t
+бәп  b ae p
+бәм  b ae m
+бәш  b ae sh
+бәж  b ae j
+бәх  b ae x
+бәһ  b ae h
+бәз  b ae z
+беб  b e b
+бед  b e d
+бел  b e l
+бен  b e n
+бең  b e ng
+бер  b e r
+бес  b e s
+бет  b e t
+беп  b e p
+бем  b e m
+беш  b e sh
+беж  b e j
+бех  b e x
+беһ  b e h
+без  b e z
+бүб  b iu b
+бүд  b iu d
+бүл  b iu l
+бүн  b iu n
+бүң  b iu ng
+бүр  b iu r
+бүс  b iu s
+бүт  b iu t
+бүп  b iu p
+бүм  b iu m
+бүш  b iu sh
+бүж  b iu j
+бүх  b iu x
+бүһ  b iu h
+бүз  b iu z
+біб  b i b
+бід  b i d
+біл  b i l
+бін  b i n
+бің  b i ng
+бір  b i r
+біс  b i s
+біт  b i t
+біп  b i p
+бім  b i m
+біш  b i sh
+біж  b i j
+біх  b i x
+біһ  b i h
+біз  b i z
+бөб  b io b
+бөд  b io d
+бөл  b io l
+бөн  b io n
+бөң  b io ng
+бөр  b io r
+бөс  b io s
+бөт  b io t
+бөп  b io p
+бөм  b io m
+бөш  b io sh
+бөж  b io j
+бөх  b io x
+бөһ  b io h
+бөз  b io z
+дәб  d ae b
+дәд  d ae d
+дәл  d ae l
+дән  d ae n
+дәң  d ae ng
+дәр  d ae r
+дәс  d ae s
+дәт  d ae t
+дәп  d ae p
+дәм  d ae m
+дәш  d ae sh
+дәж  d ae j
+дәх  d ae x
+дәһ  d ae h
+дәз  d ae z
+деб  d e b
+дед  d e d
+дел  d e l
+ден  d e n
+дең  d e ng
+дер  d e r
+дес  d e s
+дет  d e t
+деп  d e p
+дем  d e m
+деш  d e sh
+деж  d e j
+дех  d e x
+деһ  d e h
+дез  d e z
+дүб  d iu b
+дүд  d iu d
+дүл  d iu l
+дүн  d iu n
+дүң  d iu ng
+дүр  d iu r
+дүс  d iu s
+дүт  d iu t
+дүп  d iu p
+дүм  d iu m
+дүш  d iu sh
+дүж  d iu j
+дүх  d iu x
+дүһ  d iu h
+дүз  d iu z
+діб  d i b
+дід  d i d
+діл  d i l
+дін  d i n
+дің  d i ng
+дір  d i r
+діс  d i s
+діт  d i t
+діп  d i p
+дім  d i m
+діш  d i sh
+діж  d i j
+діх  d i x
+діһ  d i h
+діз  d i z
+дөб  d io b
+дөд  d io d
+дөл  d io l
+дөн  d io n
+дөң  d io ng
+дөр  d io r
+дөс  d io s
+дөт  d io t
+дөп  d io p
+дөм  d io m
+дөш  d io sh
+дөж  d io j
+дөх  d io x
+дөһ  d io h
+дөз  d io z
+ләб  l ae b
+ләд  l ae d
+ләл  l ae l
+лән  l ae n
+ләң  l ae ng
+ләр  l ae r
+ләс  l ae s
+ләт  l ae t
+ләп  l ae p
+ләм  l ae m
+ләш  l ae sh
+ләж  l ae j
+ләх  l ae x
+ләһ  l ae h
+ләз  l ae z
+леб  l e b
+лед  l e d
+лел  l e l
+лен  l e n
+лең  l e ng
+лер  l e r
+лес  l e s
+лет  l e t
+леп  l e p
+лем  l e m
+леш  l e sh
+леж  l e j
+лех  l e x
+леһ  l e h
+лез  l e z
+лүб  l iu b
+лүд  l iu d
+лүл  l iu l
+лүн  l iu n
+лүң  l iu ng
+лүр  l iu r
+лүс  l iu s
+лүт  l iu t
+лүп  l iu p
+лүм  l iu m
+лүш  l iu sh
+лүж  l iu j
+лүх  l iu x
+лүһ  l iu h
+лүз  l iu z
+ліб  l i b
+лід  l i d
+ліл  l i l
+лін  l i n
+лің  l i ng
+лір  l i r
+ліс  l i s
+літ  l i t
+ліп  l i p
+лім  l i m
+ліш  l i sh
+ліж  l i j
+ліх  l i x
+ліһ  l i h
+ліз  l i z
+лөб  l io b
+лөд  l io d
+лөл  l io l
+лөн  l io n
+лөң  l io ng
+лөр  l io r
+лөс  l io s
+лөт  l io t
+лөп  l io p
+лөм  l io m
+лөш  l io sh
+лөж  l io j
+лөх  l io x
+лөһ  l io h
+лөз  l io z
+нәб  n ae b
+нәд  n ae d
+нәл  n ae l
+нән  n ae n
+нәң  n ae ng
+нәр  n ae r
+нәс  n ae s
+нәт  n ae t
+нәп  n ae p
+нәм  n ae m
+нәш  n ae sh
+нәж  n ae j
+нәх  n ae x
+нәһ  n ae h
+нәз  n ae z
+неб  n e b
+нед  n e d
+нел  n e l
+нен  n e n
+нең  n e ng
+нер  n e r
+нес  n e s
+нет  n e t
+неп  n e p
+нем  n e m
+неш  n e sh
+неж  n e j
+нех  n e x
+неһ  n e h
+нез  n e z
+нүб  n iu b
+нүд  n iu d
+нүл  n iu l
+нүн  n iu n
+нүң  n iu ng
+нүр  n iu r
+нүс  n iu s
+нүт  n iu t
+нүп  n iu p
+нүм  n iu m
+нүш  n iu sh
+нүж  n iu j
+нүх  n iu x
+нүһ  n iu h
+нүз  n iu z
+ніб  n i b
+нід  n i d
+ніл  n i l
+нін  n i n
+нің  n i ng
+нір  n i r
+ніс  n i s
+ніт  n i t
+ніп  n i p
+нім  n i m
+ніш  n i sh
+ніж  n i j
+ніх  n i x
+ніһ  n i h
+ніз  n i z
+нөб  n io b
+нөд  n io d
+нөл  n io l
+нөн  n io n
+нөң  n io ng
+нөр  n io r
+нөс  n io s
+нөт  n io t
+нөп  n io p
+нөм  n io m
+нөш  n io sh
+нөж  n io j
+нөх  n io x
+нөһ  n io h
+нөз  n io z
+ңәб  ng ae b
+ңәд  ng ae d
+ңәл  ng ae l
+ңән  ng ae n
+ңәң  ng ae ng
+ңәр  ng ae r
+ңәс  ng ae s
+ңәт  ng ae t
+ңәп  ng ae p
+ңәм  ng ae m
+ңәш  ng ae sh
+ңәж  ng ae j
+ңәх  ng ae x
+ңәһ  ng ae h
+ңәз  ng ae z
+ңеб  ng e b
+ңед  ng e d
+ңел  ng e l
+ңен  ng e n
+ңең  ng e ng
+ңер  ng e r
+ңес  ng e s
+ңет  ng e t
+ңеп  ng e p
+ңем  ng e m
+ңеш  ng e sh
+ңеж  ng e j
+ңех  ng e x
+ңеһ  ng e h
+ңез  ng e z
+ңүб  ng iu b
+ңүд  ng iu d
+ңүл  ng iu l
+ңүн  ng iu n
+ңүң  ng iu ng
+ңүр  ng iu r
+ңүс  ng iu s
+ңүт  ng iu t
+ңүп  ng iu p
+ңүм  ng iu m
+ңүш  ng iu sh
+ңүж  ng iu j
+ңүх  ng iu x
+ңүһ  ng iu h
+ңүз  ng iu z
+ңіб  ng i b
+ңід  ng i d
+ңіл  ng i l
+ңін  ng i n
+ңің  ng i ng
+ңір  ng i r
+ңіс  ng i s
+ңіт  ng i t
+ңіп  ng i p
+ңім  ng i m
+ңіш  ng i sh
+ңіж  ng i j
+ңіх  ng i x
+ңіһ  ng i h
+ңіз  ng i z
+ңөб  ng io b
+ңөд  ng io d
+ңөл  ng io l
+ңөн  ng io n
+ңөң  ng io ng
+ңөр  ng io r
+ңөс  ng io s
+ңөт  ng io t
+ңөп  ng io p
+ңөм  ng io m
+ңөш  ng io sh
+ңөж  ng io j
+ңөх  ng io x
+ңөһ  ng io h
+ңөз  ng io z
+рәб  r ae b
+рәд  r ae d
+рәл  r ae l
+рән  r ae n
+рәң  r ae ng
+рәр  r ae r
+рәс  r ae s
+рәт  r ae t
+рәп  r ae p
+рәм  r ae m
+рәш  r ae sh
+рәж  r ae j
+рәх  r ae x
+рәһ  r ae h
+рәз  r ae z
+реб  r e b
+ред  r e d
+рел  r e l
+рен  r e n
+рең  r e ng
+рер  r e r
+рес  r e s
+рет  r e t
+реп  r e p
+рем  r e m
+реш  r e sh
+реж  r e j
+рех  r e x
+реһ  r e h
+рез  r e z
+рүб  r iu b
+рүд  r iu d
+рүл  r iu l
+рүн  r iu n
+рүң  r iu ng
+рүр  r iu r
+рүс  r iu s
+рүт  r iu t
+рүп  r iu p
+рүм  r iu m
+рүш  r iu sh
+рүж  r iu j
+рүх  r iu x
+рүһ  r iu h
+рүз  r iu z
+ріб  r i b
+рід  r i d
+ріл  r i l
+рін  r i n
+рің  r i ng
+рір  r i r
+ріс  r i s
+ріт  r i t
+ріп  r i p
+рім  r i m
+ріш  r i sh
+ріж  r i j
+ріх  r i x
+ріһ  r i h
+різ  r i z
+рөб  r io b
+рөд  r io d
+рөл  r io l
+рөн  r io n
+рөң  r io ng
+рөр  r io r
+рөс  r io s
+рөт  r io t
+рөп  r io p
+рөм  r io m
+рөш  r io sh
+рөж  r io j
+рөх  r io x
+рөһ  r io h
+рөз  r io z
+сәб  s ae b
+сәд  s ae d
+сәл  s ae l
+сән  s ae n
+сәң  s ae ng
+сәр  s ae r
+сәс  s ae s
+сәт  s ae t
+сәп  s ae p
+сәм  s ae m
+сәш  s ae sh
+сәж  s ae j
+сәх  s ae x
+сәһ  s ae h
+сәз  s ae z
+себ  s e b
+сед  s e d
+сел  s e l
+сен  s e n
+сең  s e ng
+сер  s e r
+сес  s e s
+сет  s e t
+сеп  s e p
+сем  s e m
+сеш  s e sh
+сеж  s e j
+сех  s e x
+сеһ  s e h
+сез  s e z
+сүб  s iu b
+сүд  s iu d
+сүл  s iu l
+сүн  s iu n
+сүң  s iu ng
+сүр  s iu r
+сүс  s iu s
+сүт  s iu t
+сүп  s iu p
+сүм  s iu m
+сүш  s iu sh
+сүж  s iu j
+сүх  s iu x
+сүһ  s iu h
+сүз  s iu z
+сіб  s i b
+сід  s i d
+сіл  s i l
+сін  s i n
+сің  s i ng
+сір  s i r
+сіс  s i s
+сіт  s i t
+сіп  s i p
+сім  s i m
+сіш  s i sh
+сіж  s i j
+сіх  s i x
+сіһ  s i h
+сіз  s i z
+сөб  s io b
+сөд  s io d
+сөл  s io l
+сөн  s io n
+сөң  s io ng
+сөр  s io r
+сөс  s io s
+сөт  s io t
+сөп  s io p
+сөм  s io m
+сөш  s io sh
+сөж  s io j
+сөх  s io x
+сөһ  s io h
+сөз  s io z
+тәб  t ae b
+тәд  t ae d
+тәл  t ae l
+тән  t ae n
+тәң  t ae ng
+тәр  t ae r
+тәс  t ae s
+тәт  t ae t
+тәп  t ae p
+тәм  t ae m
+тәш  t ae sh
+тәж  t ae j
+тәх  t ae x
+тәһ  t ae h
+тәз  t ae z
+теб  t e b
+тед  t e d
+тел  t e l
+тен  t e n
+тең  t e ng
+тер  t e r
+тес  t e s
+тет  t e t
+теп  t e p
+тем  t e m
+теш  t e sh
+теж  t e j
+тех  t e x
+теһ  t e h
+тез  t e z
+түб  t iu b
+түд  t iu d
+түл  t iu l
+түн  t iu n
+түң  t iu ng
+түр  t iu r
+түс  t iu s
+түт  t iu t
+түп  t iu p
+түм  t iu m
+түш  t iu sh
+түж  t iu j
+түх  t iu x
+түһ  t iu h
+түз  t iu z
+тіб  t i b
+тід  t i d
+тіл  t i l
+тін  t i n
+тің  t i ng
+тір  t i r
+тіс  t i s
+тіт  t i t
+тіп  t i p
+тім  t i m
+тіш  t i sh
+тіж  t i j
+тіх  t i x
+тіһ  t i h
+тіз  t i z
+төб  t io b
+төд  t io d
+төл  t io l
+төн  t io n
+төң  t io ng
+төр  t io r
+төс  t io s
+төт  t io t
+төп  t io p
+төм  t io m
+төш  t io sh
+төж  t io j
+төх  t io x
+төһ  t io h
+төз  t io z
+пәб  p ae b
+пәд  p ae d
+пәл  p ae l
+пән  p ae n
+пәң  p ae ng
+пәр  p ae r
+пәс  p ae s
+пәт  p ae t
+пәп  p ae p
+пәм  p ae m
+пәш  p ae sh
+пәж  p ae j
+пәх  p ae x
+пәһ  p ae h
+пәз  p ae z
+пеб  p e b
+пед  p e d
+пел  p e l
+пен  p e n
+пең  p e ng
+пер  p e r
+пес  p e s
+пет  p e t
+пеп  p e p
+пем  p e m
+пеш  p e sh
+пеж  p e j
+пех  p e x
+пеһ  p e h
+пез  p e z
+пүб  p iu b
+пүд  p iu d
+пүл  p iu l
+пүн  p iu n
+пүң  p iu ng
+пүр  p iu r
+пүс  p iu s
+пүт  p iu t
+пүп  p iu p
+пүм  p iu m
+пүш  p iu sh
+пүж  p iu j
+пүх  p iu x
+пүһ  p iu h
+пүз  p iu z
+піб  p i b
+під  p i d
+піл  p i l
+пін  p i n
+пің  p i ng
+пір  p i r
+піс  p i s
+піт  p i t
+піп  p i p
+пім  p i m
+піш  p i sh
+піж  p i j
+піх  p i x
+піһ  p i h
+піз  p i z
+пөб  p io b
+пөд  p io d
+пөл  p io l
+пөн  p io n
+пөң  p io ng
+пөр  p io r
+пөс  p io s
+пөт  p io t
+пөп  p io p
+пөм  p io m
+пөш  p io sh
+пөж  p io j
+пөх  p io x
+пөһ  p io h
+пөз  p io z
+мәб  m ae b
+мәд  m ae d
+мәл  m ae l
+мән  m ae n
+мәң  m ae ng
+мәр  m ae r
+мәс  m ae s
+мәт  m ae t
+мәп  m ae p
+мәм  m ae m
+мәш  m ae sh
+мәж  m ae j
+мәх  m ae x
+мәһ  m ae h
+мәз  m ae z
+меб  m e b
+мед  m e d
+мел  m e l
+мен  m e n
+мең  m e ng
+мер  m e r
+мес  m e s
+мет  m e t
+меп  m e p
+мем  m e m
+меш  m e sh
+меж  m e j
+мех  m e x
+меһ  m e h
+мез  m e z
+мүб  m iu b
+мүд  m iu d
+мүл  m iu l
+мүн  m iu n
+мүң  m iu ng
+мүр  m iu r
+мүс  m iu s
+мүт  m iu t
+мүп  m iu p
+мүм  m iu m
+мүш  m iu sh
+мүж  m iu j
+мүх  m iu x
+мүһ  m iu h
+мүз  m iu z
+міб  m i b
+мід  m i d
+міл  m i l
+мін  m i n
+мің  m i ng
+мір  m i r
+міс  m i s
+міт  m i t
+міп  m i p
+мім  m i m
+міш  m i sh
+між  m i j
+міх  m i x
+міһ  m i h
+міз  m i z
+мөб  m io b
+мөд  m io d
+мөл  m io l
+мөн  m io n
+мөң  m io ng
+мөр  m io r
+мөс  m io s
+мөт  m io t
+мөп  m io p
+мөм  m io m
+мөш  m io sh
+мөж  m io j
+мөх  m io x
+мөһ  m io h
+мөз  m io z
+шәб  sh ae b
+шәд  sh ae d
+шәл  sh ae l
+шән  sh ae n
+шәң  sh ae ng
+шәр  sh ae r
+шәс  sh ae s
+шәт  sh ae t
+шәп  sh ae p
+шәм  sh ae m
+шәш  sh ae sh
+шәж  sh ae j
+шәх  sh ae x
+шәһ  sh ae h
+шәз  sh ae z
+шеб  sh e b
+шед  sh e d
+шел  sh e l
+шен  sh e n
+шең  sh e ng
+шер  sh e r
+шес  sh e s
+шет  sh e t
+шеп  sh e p
+шем  sh e m
+шеш  sh e sh
+шеж  sh e j
+шех  sh e x
+шеһ  sh e h
+шез  sh e z
+шүб  sh iu b
+шүд  sh iu d
+шүл  sh iu l
+шүн  sh iu n
+шүң  sh iu ng
+шүр  sh iu r
+шүс  sh iu s
+шүт  sh iu t
+шүп  sh iu p
+шүм  sh iu m
+шүш  sh iu sh
+шүж  sh iu j
+шүх  sh iu x
+шүһ  sh iu h
+шүз  sh iu z
+шіб  sh i b
+шід  sh i d
+шіл  sh i l
+шін  sh i n
+шің  sh i ng
+шір  sh i r
+шіс  sh i s
+шіт  sh i t
+шіп  sh i p
+шім  sh i m
+шіш  sh i sh
+шіж  sh i j
+шіх  sh i x
+шіһ  sh i h
+шіз  sh i z
+шөб  sh io b
+шөд  sh io d
+шөл  sh io l
+шөн  sh io n
+шөң  sh io ng
+шөр  sh io r
+шөс  sh io s
+шөт  sh io t
+шөп  sh io p
+шөм  sh io m
+шөш  sh io sh
+шөж  sh io j
+шөх  sh io x
+шөһ  sh io h
+шөз  sh io z
+жәб  j ae b
+жәд  j ae d
+жәл  j ae l
+жән  j ae n
+жәң  j ae ng
+жәр  j ae r
+жәс  j ae s
+жәт  j ae t
+жәп  j ae p
+жәм  j ae m
+жәш  j ae sh
+жәж  j ae j
+жәх  j ae x
+жәһ  j ae h
+жәз  j ae z
+жеб  j e b
+жед  j e d
+жел  j e l
+жен  j e n
+жең  j e ng
+жер  j e r
+жес  j e s
+жет  j e t
+жеп  j e p
+жем  j e m
+жеш  j e sh
+жеж  j e j
+жех  j e x
+жеһ  j e h
+жез  j e z
+жүб  j iu b
+жүд  j iu d
+жүл  j iu l
+жүн  j iu n
+жүң  j iu ng
+жүр  j iu r
+жүс  j iu s
+жүт  j iu t
+жүп  j iu p
+жүм  j iu m
+жүш  j iu sh
+жүж  j iu j
+жүх  j iu x
+жүһ  j iu h
+жүз  j iu z
+жіб  j i b
+жід  j i d
+жіл  j i l
+жін  j i n
+жің  j i ng
+жір  j i r
+жіс  j i s
+жіт  j i t
+жіп  j i p
+жім  j i m
+жіш  j i sh
+жіж  j i j
+жіх  j i x
+жіһ  j i h
+жіз  j i z
+жөб  j io b
+жөд  j io d
+жөл  j io l
+жөн  j io n
+жөң  j io ng
+жөр  j io r
+жөс  j io s
+жөт  j io t
+жөп  j io p
+жөм  j io m
+жөш  j io sh
+жөж  j io j
+жөх  j io x
+жөһ  j io h
+жөз  j io z
+хәб  x ae b
+хәд  x ae d
+хәл  x ae l
+хән  x ae n
+хәң  x ae ng
+хәр  x ae r
+хәс  x ae s
+хәт  x ae t
+хәп  x ae p
+хәм  x ae m
+хәш  x ae sh
+хәж  x ae j
+хәх  x ae x
+хәһ  x ae h
+хәз  x ae z
+хеб  x e b
+хед  x e d
+хел  x e l
+хен  x e n
+хең  x e ng
+хер  x e r
+хес  x e s
+хет  x e t
+хеп  x e p
+хем  x e m
+хеш  x e sh
+хеж  x e j
+хех  x e x
+хеһ  x e h
+хез  x e z
+хүб  x iu b
+хүд  x iu d
+хүл  x iu l
+хүн  x iu n
+хүң  x iu ng
+хүр  x iu r
+хүс  x iu s
+хүт  x iu t
+хүп  x iu p
+хүм  x iu m
+хүш  x iu sh
+хүж  x iu j
+хүх  x iu x
+хүһ  x iu h
+хүз  x iu z
+хіб  x i b
+хід  x i d
+хіл  x i l
+хін  x i n
+хің  x i ng
+хір  x i r
+хіс  x i s
+хіт  x i t
+хіп  x i p
+хім  x i m
+хіш  x i sh
+хіж  x i j
+хіх  x i x
+хіһ  x i h
+хіз  x i z
+хөб  x io b
+хөд  x io d
+хөл  x io l
+хөн  x io n
+хөң  x io ng
+хөр  x io r
+хөс  x io s
+хөт  x io t
+хөп  x io p
+хөм  x io m
+хөш  x io sh
+хөж  x io j
+хөх  x io x
+хөһ  x io h
+хөз  x io z
+һәб  h ae b
+һәд  h ae d
+һәл  h ae l
+һән  h ae n
+һәң  h ae ng
+һәр  h ae r
+һәс  h ae s
+һәт  h ae t
+һәп  h ae p
+һәм  h ae m
+һәш  h ae sh
+һәж  h ae j
+һәх  h ae x
+һәһ  h ae h
+һәз  h ae z
+һеб  h e b
+һед  h e d
+һел  h e l
+һен  h e n
+һең  h e ng
+һер  h e r
+һес  h e s
+һет  h e t
+һеп  h e p
+һем  h e m
+һеш  h e sh
+һеж  h e j
+һех  h e x
+һеһ  h e h
+һез  h e z
+һүб  h iu b
+һүд  h iu d
+һүл  h iu l
+һүн  h iu n
+һүң  h iu ng
+һүр  h iu r
+һүс  h iu s
+һүт  h iu t
+һүп  h iu p
+һүм  h iu m
+һүш  h iu sh
+һүж  h iu j
+һүх  h iu x
+һүһ  h iu h
+һүз  h iu z
+һіб  h i b
+һід  h i d
+һіл  h i l
+һін  h i n
+һің  h i ng
+һір  h i r
+һіс  h i s
+һіт  h i t
+һіп  h i p
+һім  h i m
+һіш  h i sh
+һіж  h i j
+һіх  h i x
+һіһ  h i h
+һіз  h i z
+һөб  h io b
+һөд  h io d
+һөл  h io l
+һөн  h io n
+һөң  h io ng
+һөр  h io r
+һөс  h io s
+һөт  h io t
+һөп  h io p
+һөм  h io m
+һөш  h io sh
+һөж  h io j
+һөх  h io x
+һөһ  h io h
+һөз  h io z
+зәб  z ae b
+зәд  z ae d
+зәл  z ae l
+зән  z ae n
+зәң  z ae ng
+зәр  z ae r
+зәс  z ae s
+зәт  z ae t
+зәп  z ae p
+зәм  z ae m
+зәш  z ae sh
+зәж  z ae j
+зәх  z ae x
+зәһ  z ae h
+зәз  z ae z
+зеб  z e b
+зед  z e d
+зел  z e l
+зен  z e n
+зең  z e ng
+зер  z e r
+зес  z e s
+зет  z e t
+зеп  z e p
+зем  z e m
+зеш  z e sh
+зеж  z e j
+зех  z e x
+зеһ  z e h
+зез  z e z
+зүб  z iu b
+зүд  z iu d
+зүл  z iu l
+зүн  z iu n
+зүң  z iu ng
+зүр  z iu r
+зүс  z iu s
+зүт  z iu t
+зүп  z iu p
+зүм  z iu m
+зүш  z iu sh
+зүж  z iu j
+зүх  z iu x
+зүһ  z iu h
+зүз  z iu z
+зіб  z i b
+зід  z i d
+зіл  z i l
+зін  z i n
+зің  z i ng
+зір  z i r
+зіс  z i s
+зіт  z i t
+зіп  z i p
+зім  z i m
+зіш  z i sh
+зіж  z i j
+зіх  z i x
+зіһ  z i h
+зіз  z i z
+зөб  z io b
+зөд  z io d
+зөл  z io l
+зөн  z io n
+зөң  z io ng
+зөр  z io r
+зөс  z io s
+зөт  z io t
+зөп  z io p
+зөм  z io m
+зөш  z io sh
+зөж  z io j
+зөх  z io x
+зөһ  z io h
+зөз  z io z
+баб  b a b
+бад  b a d
+бал  b a l
+бан  b a n
+баң  b a ng
+бар  b a r
+бас  b a s
+бат  b a t
+бап  b a p
+бам  b a m
+баш  b a sh
+баж  b a j
+бах  b a x
+баһ  b a h
+баз  b a z
+бұб  b ou b
+бұд  b ou d
+бұл  b ou l
+бұн  b ou n
+бұң  b ou ng
+бұр  b ou r
+бұс  b ou s
+бұт  b ou t
+бұп  b ou p
+бұм  b ou m
+бұш  b ou sh
+бұж  b ou j
+бұх  b ou x
+бұһ  b ou h
+бұз  b ou z
+быб  b y b
+быд  b y d
+был  b y l
+бын  b y n
+бың  b y ng
+быр  b y r
+быс  b y s
+быт  b y t
+бып  b y p
+бым  b y m
+быш  b y sh
+быж  b y j
+бых  b y x
+быһ  b y h
+быз  b y z
+боб  b o b
+бод  b o d
+бол  b o l
+бон  b o n
+боң  b o ng
+бор  b o r
+бос  b o s
+бот  b o t
+боп  b o p
+бом  b o m
+бош  b o sh
+бож  b o j
+бох  b o x
+боһ  b o h
+боз  b o z
+даб  d a b
+дад  d a d
+дал  d a l
+дан  d a n
+даң  d a ng
+дар  d a r
+дас  d a s
+дат  d a t
+дап  d a p
+дам  d a m
+даш  d a sh
+даж  d a j
+дах  d a x
+даһ  d a h
+даз  d a z
+дұб  d ou b
+дұд  d ou d
+дұл  d ou l
+дұн  d ou n
+дұң  d ou ng
+дұр  d ou r
+дұс  d ou s
+дұт  d ou t
+дұп  d ou p
+дұм  d ou m
+дұш  d ou sh
+дұж  d ou j
+дұх  d ou x
+дұһ  d ou h
+дұз  d ou z
+дыб  d y b
+дыд  d y d
+дыл  d y l
+дын  d y n
+дың  d y ng
+дыр  d y r
+дыс  d y s
+дыт  d y t
+дып  d y p
+дым  d y m
+дыш  d y sh
+дыж  d y j
+дых  d y x
+дыһ  d y h
+дыз  d y z
+доб  d o b
+дод  d o d
+дол  d o l
+дон  d o n
+доң  d o ng
+дор  d o r
+дос  d o s
+дот  d o t
+доп  d o p
+дом  d o m
+дош  d o sh
+дож  d o j
+дох  d o x
+доһ  d o h
+доз  d o z
+лаб  l a b
+лад  l a d
+лал  l a l
+лан  l a n
+лаң  l a ng
+лар  l a r
+лас  l a s
+лат  l a t
+лап  l a p
+лам  l a m
+лаш  l a sh
+лаж  l a j
+лах  l a x
+лаһ  l a h
+лаз  l a z
+лұб  l ou b
+лұд  l ou d
+лұл  l ou l
+лұн  l ou n
+лұң  l ou ng
+лұр  l ou r
+лұс  l ou s
+лұт  l ou t
+лұп  l ou p
+лұм  l ou m
+лұш  l ou sh
+лұж  l ou j
+лұх  l ou x
+лұһ  l ou h
+лұз  l ou z
+лыб  l y b
+лыд  l y d
+лыл  l y l
+лын  l y n
+лың  l y ng
+лыр  l y r
+лыс  l y s
+лыт  l y t
+лып  l y p
+лым  l y m
+лыш  l y sh
+лыж  l y j
+лых  l y x
+лыһ  l y h
+лыз  l y z
+лоб  l o b
+лод  l o d
+лол  l o l
+лон  l o n
+лоң  l o ng
+лор  l o r
+лос  l o s
+лот  l o t
+лоп  l o p
+лом  l o m
+лош  l o sh
+лож  l o j
+лох  l o x
+лоһ  l o h
+лоз  l o z
+наб  n a b
+над  n a d
+нал  n a l
+нан  n a n
+наң  n a ng
+нар  n a r
+нас  n a s
+нат  n a t
+нап  n a p
+нам  n a m
+наш  n a sh
+наж  n a j
+нах  n a x
+наһ  n a h
+наз  n a z
+нұб  n ou b
+нұд  n ou d
+нұл  n ou l
+нұн  n ou n
+нұң  n ou ng
+нұр  n ou r
+нұс  n ou s
+нұт  n ou t
+нұп  n ou p
+нұм  n ou m
+нұш  n ou sh
+нұж  n ou j
+нұх  n ou x
+нұһ  n ou h
+нұз  n ou z
+ныб  n y b
+ныд  n y d
+ныл  n y l
+нын  n y n
+ның  n y ng
+ныр  n y r
+ныс  n y s
+ныт  n y t
+нып  n y p
+ным  n y m
+ныш  n y sh
+ныж  n y j
+ных  n y x
+ныһ  n y h
+ныз  n y z
+ноб  n o b
+нод  n o d
+нол  n o l
+нон  n o n
+ноң  n o ng
+нор  n o r
+нос  n o s
+нот  n o t
+ноп  n o p
+ном  n o m
+нош  n o sh
+нож  n o j
+нох  n o x
+ноһ  n o h
+ноз  n o z
+ңаб  ng a b
+ңад  ng a d
+ңал  ng a l
+ңан  ng a n
+ңаң  ng a ng
+ңар  ng a r
+ңас  ng a s
+ңат  ng a t
+ңап  ng a p
+ңам  ng a m
+ңаш  ng a sh
+ңаж  ng a j
+ңах  ng a x
+ңаһ  ng a h
+ңаз  ng a z
+ңұб  ng ou b
+ңұд  ng ou d
+ңұл  ng ou l
+ңұн  ng ou n
+ңұң  ng ou ng
+ңұр  ng ou r
+ңұс  ng ou s
+ңұт  ng ou t
+ңұп  ng ou p
+ңұм  ng ou m
+ңұш  ng ou sh
+ңұж  ng ou j
+ңұх  ng ou x
+ңұһ  ng ou h
+ңұз  ng ou z
+ңыб  ng y b
+ңыд  ng y d
+ңыл  ng y l
+ңын  ng y n
+ңың  ng y ng
+ңыр  ng y r
+ңыс  ng y s
+ңыт  ng y t
+ңып  ng y p
+ңым  ng y m
+ңыш  ng y sh
+ңыж  ng y j
+ңых  ng y x
+ңыһ  ng y h
+ңыз  ng y z
+ңоб  ng o b
+ңод  ng o d
+ңол  ng o l
+ңон  ng o n
+ңоң  ng o ng
+ңор  ng o r
+ңос  ng o s
+ңот  ng o t
+ңоп  ng o p
+ңом  ng o m
+ңош  ng o sh
+ңож  ng o j
+ңох  ng o x
+ңоһ  ng o h
+ңоз  ng o z
+раб  r a b
+рад  r a d
+рал  r a l
+ран  r a n
+раң  r a ng
+рар  r a r
+рас  r a s
+рат  r a t
+рап  r a p
+рам  r a m
+раш  r a sh
+раж  r a j
+рах  r a x
+раһ  r a h
+раз  r a z
+рұб  r ou b
+рұд  r ou d
+рұл  r ou l
+рұн  r ou n
+рұң  r ou ng
+рұр  r ou r
+рұс  r ou s
+рұт  r ou t
+рұп  r ou p
+рұм  r ou m
+рұш  r ou sh
+рұж  r ou j
+рұх  r ou x
+рұһ  r ou h
+рұз  r ou z
+рыб  r y b
+рыд  r y d
+рыл  r y l
+рын  r y n
+рың  r y ng
+рыр  r y r
+рыс  r y s
+рыт  r y t
+рып  r y p
+рым  r y m
+рыш  r y sh
+рыж  r y j
+рых  r y x
+рыһ  r y h
+рыз  r y z
+роб  r o b
+род  r o d
+рол  r o l
+рон  r o n
+роң  r o ng
+рор  r o r
+рос  r o s
+рот  r o t
+роп  r o p
+ром  r o m
+рош  r o sh
+рож  r o j
+рох  r o x
+роһ  r o h
+роз  r o z
+саб  s a b
+сад  s a d
+сал  s a l
+сан  s a n
+саң  s a ng
+сар  s a r
+сас  s a s
+сат  s a t
+сап  s a p
+сам  s a m
+саш  s a sh
+саж  s a j
+сах  s a x
+саһ  s a h
+саз  s a z
+сұб  s ou b
+сұд  s ou d
+сұл  s ou l
+сұн  s ou n
+сұң  s ou ng
+сұр  s ou r
+сұс  s ou s
+сұт  s ou t
+сұп  s ou p
+сұм  s ou m
+сұш  s ou sh
+сұж  s ou j
+сұх  s ou x
+сұһ  s ou h
+сұз  s ou z
+сыб  s y b
+сыд  s y d
+сыл  s y l
+сын  s y n
+сың  s y ng
+сыр  s y r
+сыс  s y s
+сыт  s y t
+сып  s y p
+сым  s y m
+сыш  s y sh
+сыж  s y j
+сых  s y x
+сыһ  s y h
+сыз  s y z
+соб  s o b
+сод  s o d
+сол  s o l
+сон  s o n
+соң  s o ng
+сор  s o r
+сос  s o s
+сот  s o t
+соп  s o p
+сом  s o m
+сош  s o sh
+сож  s o j
+сох  s o x
+соһ  s o h
+соз  s o z
+таб  t a b
+тад  t a d
+тал  t a l
+тан  t a n
+таң  t a ng
+тар  t a r
+тас  t a s
+тат  t a t
+тап  t a p
+там  t a m
+таш  t a sh
+таж  t a j
+тах  t a x
+таһ  t a h
+таз  t a z
+тұб  t ou b
+тұд  t ou d
+тұл  t ou l
+тұн  t ou n
+тұң  t ou ng
+тұр  t ou r
+тұс  t ou s
+тұт  t ou t
+тұп  t ou p
+тұм  t ou m
+тұш  t ou sh
+тұж  t ou j
+тұх  t ou x
+тұһ  t ou h
+тұз  t ou z
+тыб  t y b
+тыд  t y d
+тыл  t y l
+тын  t y n
+тың  t y ng
+тыр  t y r
+тыс  t y s
+тыт  t y t
+тып  t y p
+тым  t y m
+тыш  t y sh
+тыж  t y j
+тых  t y x
+тыһ  t y h
+тыз  t y z
+тоб  t o b
+тод  t o d
+тол  t o l
+тон  t o n
+тоң  t o ng
+тор  t o r
+тос  t o s
+тот  t o t
+топ  t o p
+том  t o m
+тош  t o sh
+тож  t o j
+тох  t o x
+тоһ  t o h
+тоз  t o z
+паб  p a b
+пад  p a d
+пал  p a l
+пан  p a n
+паң  p a ng
+пар  p a r
+пас  p a s
+пат  p a t
+пап  p a p
+пам  p a m
+паш  p a sh
+паж  p a j
+пах  p a x
+паһ  p a h
+паз  p a z
+пұб  p ou b
+пұд  p ou d
+пұл  p ou l
+пұн  p ou n
+пұң  p ou ng
+пұр  p ou r
+пұс  p ou s
+пұт  p ou t
+пұп  p ou p
+пұм  p ou m
+пұш  p ou sh
+пұж  p ou j
+пұх  p ou x
+пұһ  p ou h
+пұз  p ou z
+пыб  p y b
+пыд  p y d
+пыл  p y l
+пын  p y n
+пың  p y ng
+пыр  p y r
+пыс  p y s
+пыт  p y t
+пып  p y p
+пым  p y m
+пыш  p y sh
+пыж  p y j
+пых  p y x
+пыһ  p y h
+пыз  p y z
+поб  p o b
+под  p o d
+пол  p o l
+пон  p o n
+поң  p o ng
+пор  p o r
+пос  p o s
+пот  p o t
+поп  p o p
+пом  p o m
+пош  p o sh
+пож  p o j
+пох  p o x
+поһ  p o h
+поз  p o z
+маб  m a b
+мад  m a d
+мал  m a l
+ман  m a n
+маң  m a ng
+мар  m a r
+мас  m a s
+мат  m a t
+мап  m a p
+мам  m a m
+маш  m a sh
+маж  m a j
+мах  m a x
+маһ  m a h
+маз  m a z
+мұб  m ou b
+мұд  m ou d
+мұл  m ou l
+мұн  m ou n
+мұң  m ou ng
+мұр  m ou r
+мұс  m ou s
+мұт  m ou t
+мұп  m ou p
+мұм  m ou m
+мұш  m ou sh
+мұж  m ou j
+мұх  m ou x
+мұһ  m ou h
+мұз  m ou z
+мыб  m y b
+мыд  m y d
+мыл  m y l
+мын  m y n
+мың  m y ng
+мыр  m y r
+мыс  m y s
+мыт  m y t
+мып  m y p
+мым  m y m
+мыш  m y sh
+мыж  m y j
+мых  m y x
+мыһ  m y h
+мыз  m y z
+моб  m o b
+мод  m o d
+мол  m o l
+мон  m o n
+моң  m o ng
+мор  m o r
+мос  m o s
+мот  m o t
+моп  m o p
+мом  m o m
+мош  m o sh
+мож  m o j
+мох  m o x
+моһ  m o h
+моз  m o z
+шаб  sh a b
+шад  sh a d
+шал  sh a l
+шан  sh a n
+шаң  sh a ng
+шар  sh a r
+шас  sh a s
+шат  sh a t
+шап  sh a p
+шам  sh a m
+шаш  sh a sh
+шаж  sh a j
+шах  sh a x
+шаһ  sh a h
+шаз  sh a z
+шұб  sh ou b
+шұд  sh ou d
+шұл  sh ou l
+шұн  sh ou n
+шұң  sh ou ng
+шұр  sh ou r
+шұс  sh ou s
+шұт  sh ou t
+шұп  sh ou p
+шұм  sh ou m
+шұш  sh ou sh
+шұж  sh ou j
+шұх  sh ou x
+шұһ  sh ou h
+шұз  sh ou z
+шыб  sh y b
+шыд  sh y d
+шыл  sh y l
+шын  sh y n
+шың  sh y ng
+шыр  sh y r
+шыс  sh y s
+шыт  sh y t
+шып  sh y p
+шым  sh y m
+шыш  sh y sh
+шыж  sh y j
+шых  sh y x
+шыһ  sh y h
+шыз  sh y z
+шоб  sh o b
+шод  sh o d
+шол  sh o l
+шон  sh o n
+шоң  sh o ng
+шор  sh o r
+шос  sh o s
+шот  sh o t
+шоп  sh o p
+шом  sh o m
+шош  sh o sh
+шож  sh o j
+шох  sh o x
+шоһ  sh o h
+шоз  sh o z
+жаб  j a b
+жад  j a d
+жал  j a l
+жан  j a n
+жаң  j a ng
+жар  j a r
+жас  j a s
+жат  j a t
+жап  j a p
+жам  j a m
+жаш  j a sh
+жаж  j a j
+жах  j a x
+жаһ  j a h
+жаз  j a z
+жұб  j ou b
+жұд  j ou d
+жұл  j ou l
+жұн  j ou n
+жұң  j ou ng
+жұр  j ou r
+жұс  j ou s
+жұт  j ou t
+жұп  j ou p
+жұм  j ou m
+жұш  j ou sh
+жұж  j ou j
+жұх  j ou x
+жұһ  j ou h
+жұз  j ou z
+жыб  j y b
+жыд  j y d
+жыл  j y l
+жын  j y n
+жың  j y ng
+жыр  j y r
+жыс  j y s
+жыт  j y t
+жып  j y p
+жым  j y m
+жыш  j y sh
+жыж  j y j
+жых  j y x
+жыһ  j y h
+жыз  j y z
+жоб  j o b
+жод  j o d
+жол  j o l
+жон  j o n
+жоң  j o ng
+жор  j o r
+жос  j o s
+жот  j o t
+жоп  j o p
+жом  j o m
+жош  j o sh
+жож  j o j
+жох  j o x
+жоһ  j o h
+жоз  j o z
+хаб  x a b
+хад  x a d
+хал  x a l
+хан  x a n
+хаң  x a ng
+хар  x a r
+хас  x a s
+хат  x a t
+хап  x a p
+хам  x a m
+хаш  x a sh
+хаж  x a j
+хах  x a x
+хаһ  x a h
+хаз  x a z
+хұб  x ou b
+хұд  x ou d
+хұл  x ou l
+хұн  x ou n
+хұң  x ou ng
+хұр  x ou r
+хұс  x ou s
+хұт  x ou t
+хұп  x ou p
+хұм  x ou m
+хұш  x ou sh
+хұж  x ou j
+хұх  x ou x
+хұһ  x ou h
+хұз  x ou z
+хыб  x y b
+хыд  x y d
+хыл  x y l
+хын  x y n
+хың  x y ng
+хыр  x y r
+хыс  x y s
+хыт  x y t
+хып  x y p
+хым  x y m
+хыш  x y sh
+хыж  x y j
+хых  x y x
+хыһ  x y h
+хыз  x y z
+хоб  x o b
+ход  x o d
+хол  x o l
+хон  x o n
+хоң  x o ng
+хор  x o r
+хос  x o s
+хот  x o t
+хоп  x o p
+хом  x o m
+хош  x o sh
+хож  x o j
+хох  x o x
+хоһ  x o h
+хоз  x o z
+һаб  h a b
+һад  h a d
+һал  h a l
+һан  h a n
+һаң  h a ng
+һар  h a r
+һас  h a s
+һат  h a t
+һап  h a p
+һам  h a m
+һаш  h a sh
+һаж  h a j
+һах  h a x
+һаһ  h a h
+һаз  h a z
+һұб  h ou b
+һұд  h ou d
+һұл  h ou l
+һұн  h ou n
+һұң  h ou ng
+һұр  h ou r
+һұс  h ou s
+һұт  h ou t
+һұп  h ou p
+һұм  h ou m
+һұш  h ou sh
+һұж  h ou j
+һұх  h ou x
+һұһ  h ou h
+һұз  h ou z
+һыб  h y b
+һыд  h y d
+һыл  h y l
+һын  h y n
+һың  h y ng
+һыр  h y r
+һыс  h y s
+һыт  h y t
+һып  h y p
+һым  h y m
+һыш  h y sh
+һыж  h y j
+һых  h y x
+һыһ  h y h
+һыз  h y z
+һоб  h o b
+һод  h o d
+һол  h o l
+һон  h o n
+һоң  h o ng
+һор  h o r
+һос  h o s
+һот  h o t
+һоп  h o p
+һом  h o m
+һош  h o sh
+һож  h o j
+һох  h o x
+һоһ  h o h
+һоз  h o z
+заб  z a b
+зад  z a d
+зал  z a l
+зан  z a n
+заң  z a ng
+зар  z a r
+зас  z a s
+зат  z a t
+зап  z a p
+зам  z a m
+заш  z a sh
+заж  z a j
+зах  z a x
+заһ  z a h
+заз  z a z
+зұб  z ou b
+зұд  z ou d
+зұл  z ou l
+зұн  z ou n
+зұң  z ou ng
+зұр  z ou r
+зұс  z ou s
+зұт  z ou t
+зұп  z ou p
+зұм  z ou m
+зұш  z ou sh
+зұж  z ou j
+зұх  z ou x
+зұһ  z ou h
+зұз  z ou z
+зыб  z y b
+зыд  z y d
+зыл  z y l
+зын  z y n
+зың  z y ng
+зыр  z y r
+зыс  z y s
+зыт  z y t
+зып  z y p
+зым  z y m
+зыш  z y sh
+зыж  z y j
+зых  z y x
+зыһ  z y h
+зыз  z y z
+зоб  z o b
+зод  z o d
+зол  z o l
+зон  z o n
+зоң  z o ng
+зор  z o r
+зос  z o s
+зот  z o t
+зоп  z o p
+зом  z o m
+зош  z o sh
+зож  z o j
+зох  z o x
+зоһ  z o h
+зоз  z o z
+гәб  g ae b
+гәд  g ae d
+гәл  g ae l
+гән  g ae n
+гәң  g ae ng
+гәр  g ae r
+гәс  g ae s
+гәт  g ae t
+гәп  g ae p
+гәм  g ae m
+гәш  g ae sh
+гәж  g ae j
+гәх  g ae x
+гәһ  g ae h
+гәз  g ae z
+геб  g e b
+гед  g e d
+гел  g e l
+ген  g e n
+гең  g e ng
+гер  g e r
+гес  g e s
+гет  g e t
+геп  g e p
+гем  g e m
+геш  g e sh
+геж  g e j
+гех  g e x
+геһ  g e h
+гез  g e z
+гүб  g iu b
+гүд  g iu d
+гүл  g iu l
+гүн  g iu n
+гүң  g iu ng
+гүр  g iu r
+гүс  g iu s
+гүт  g iu t
+гүп  g iu p
+гүм  g iu m
+гүш  g iu sh
+гүж  g iu j
+гүх  g iu x
+гүһ  g iu h
+гүз  g iu z
+гіб  g i b
+гід  g i d
+гіл  g i l
+гін  g i n
+гің  g i ng
+гір  g i r
+гіс  g i s
+гіт  g i t
+гіп  g i p
+гім  g i m
+гіш  g i sh
+гіж  g i j
+гіх  g i x
+гіһ  g i h
+гіз  g i z
+гөб  g io b
+гөд  g io d
+гөл  g io l
+гөн  g io n
+гөң  g io ng
+гөр  g io r
+гөс  g io s
+гөт  g io t
+гөп  g io p
+гөм  g io m
+гөш  g io sh
+гөж  g io j
+гөх  g io x
+гөһ  g io h
+гөз  g io z
+кәб  k ae b
+кәд  k ae d
+кәл  k ae l
+кән  k ae n
+кәң  k ae ng
+кәр  k ae r
+кәс  k ae s
+кәт  k ae t
+кәп  k ae p
+кәм  k ae m
+кәш  k ae sh
+кәж  k ae j
+кәх  k ae x
+кәһ  k ae h
+кәз  k ae z
+кеб  k e b
+кед  k e d
+кел  k e l
+кен  k e n
+кең  k e ng
+кер  k e r
+кес  k e s
+кет  k e t
+кеп  k e p
+кем  k e m
+кеш  k e sh
+кеж  k e j
+кех  k e x
+кеһ  k e h
+кез  k e z
+күб  k iu b
+күд  k iu d
+күл  k iu l
+күн  k iu n
+күң  k iu ng
+күр  k iu r
+күс  k iu s
+күт  k iu t
+күп  k iu p
+күм  k iu m
+күш  k iu sh
+күж  k iu j
+күх  k iu x
+күһ  k iu h
+күз  k iu z
+кіб  k i b
+кід  k i d
+кіл  k i l
+кін  k i n
+кің  k i ng
+кір  k i r
+кіс  k i s
+кіт  k i t
+кіп  k i p
+кім  k i m
+кіш  k i sh
+кіж  k i j
+кіх  k i x
+кіһ  k i h
+кіз  k i z
+көб  k io b
+көд  k io d
+көл  k io l
+көн  k io n
+көң  k io ng
+көр  k io r
+көс  k io s
+көт  k io t
+көп  k io p
+көм  k io m
+көш  k io sh
+көж  k io j
+көх  k io x
+көһ  k io h
+көз  k io z
+ғаб  gh a b
+ғад  gh a d
+ғал  gh a l
+ған  gh a n
+ғаң  gh a ng
+ғар  gh a r
+ғас  gh a s
+ғат  gh a t
+ғап  gh a p
+ғам  gh a m
+ғаш  gh a sh
+ғаж  gh a j
+ғах  gh a x
+ғаһ  gh a h
+ғаз  gh a z
+ғұб  gh ou b
+ғұд  gh ou d
+ғұл  gh ou l
+ғұн  gh ou n
+ғұң  gh ou ng
+ғұр  gh ou r
+ғұс  gh ou s
+ғұт  gh ou t
+ғұп  gh ou p
+ғұм  gh ou m
+ғұш  gh ou sh
+ғұж  gh ou j
+ғұх  gh ou x
+ғұһ  gh ou h
+ғұз  gh ou z
+ғыб  gh y b
+ғыд  gh y d
+ғыл  gh y l
+ғын  gh y n
+ғың  gh y ng
+ғыр  gh y r
+ғыс  gh y s
+ғыт  gh y t
+ғып  gh y p
+ғым  gh y m
+ғыш  gh y sh
+ғыж  gh y j
+ғых  gh y x
+ғыһ  gh y h
+ғыз  gh y z
+ғоб  gh o b
+ғод  gh o d
+ғол  gh o l
+ғон  gh o n
+ғоң  gh o ng
+ғор  gh o r
+ғос  gh o s
+ғот  gh o t
+ғоп  gh o p
+ғом  gh o m
+ғош  gh o sh
+ғож  gh o j
+ғох  gh o x
+ғоһ  gh o h
+ғоз  gh o z
+қаб  q a b
+қад  q a d
+қал  q a l
+қан  q a n
+қаң  q a ng
+қар  q a r
+қас  q a s
+қат  q a t
+қап  q a p
+қам  q a m
+қаш  q a sh
+қаж  q a j
+қах  q a x
+қаһ  q a h
+қаз  q a z
+құб  q ou b
+құд  q ou d
+құл  q ou l
+құн  q ou n
+құң  q ou ng
+құр  q ou r
+құс  q ou s
+құт  q ou t
+құп  q ou p
+құм  q ou m
+құш  q ou sh
+құж  q ou j
+құх  q ou x
+құһ  q ou h
+құз  q ou z
+қыб  q y b
+қыд  q y d
+қыл  q y l
+қын  q y n
+қың  q y ng
+қыр  q y r
+қыс  q y s
+қыт  q y t
+қып  q y p
+қым  q y m
+қыш  q y sh
+қыж  q y j
+қых  q y x
+қыһ  q y h
+қыз  q y z
+қоб  q o b
+қод  q o d
+қол  q o l
+қон  q o n
+қоң  q o ng
+қор  q o r
+қос  q o s
+қот  q o t
+қоп  q o p
+қом  q o m
+қош  q o sh
+қож  q o j
+қох  q o x
+қоһ  q o h
+қоз  q o z
+бәг  b ae g
+бәк  b ae k
+бег  b e g
+бек  b e k
+бүг  b iu g
+бүк  b iu k
+біг  b i g
+бік  b i k
+бөг  b io g
+бөк  b io k
+дәг  d ae g
+дәк  d ae k
+дег  d e g
+дек  d e k
+дүг  d iu g
+дүк  d iu k
+діг  d i g
+дік  d i k
+дөг  d io g
+дөк  d io k
+ләг  l ae g
+ләк  l ae k
+лег  l e g
+лек  l e k
+лүг  l iu g
+лүк  l iu k
+ліг  l i g
+лік  l i k
+лөг  l io g
+лөк  l io k
+нәг  n ae g
+нәк  n ae k
+нег  n e g
+нек  n e k
+нүг  n iu g
+нүк  n iu k
+ніг  n i g
+нік  n i k
+нөг  n io g
+нөк  n io k
+ңәг  ng ae g
+ңәк  ng ae k
+ңег  ng e g
+ңек  ng e k
+ңүг  ng iu g
+ңүк  ng iu k
+ңіг  ng i g
+ңік  ng i k
+ңөг  ng io g
+ңөк  ng io k
+рәг  r ae g
+рәк  r ae k
+рег  r e g
+рек  r e k
+рүг  r iu g
+рүк  r iu k
+ріг  r i g
+рік  r i k
+рөг  r io g
+рөк  r io k
+сәг  s ae g
+сәк  s ae k
+сег  s e g
+сек  s e k
+сүг  s iu g
+сүк  s iu k
+сіг  s i g
+сік  s i k
+сөг  s io g
+сөк  s io k
+тәг  t ae g
+тәк  t ae k
+тег  t e g
+тек  t e k
+түг  t iu g
+түк  t iu k
+тіг  t i g
+тік  t i k
+төг  t io g
+төк  t io k
+пәг  p ae g
+пәк  p ae k
+пег  p e g
+пек  p e k
+пүг  p iu g
+пүк  p iu k
+піг  p i g
+пік  p i k
+пөг  p io g
+пөк  p io k
+мәг  m ae g
+мәк  m ae k
+мег  m e g
+мек  m e k
+мүг  m iu g
+мүк  m iu k
+міг  m i g
+мік  m i k
+мөг  m io g
+мөк  m io k
+шәг  sh ae g
+шәк  sh ae k
+шег  sh e g
+шек  sh e k
+шүг  sh iu g
+шүк  sh iu k
+шіг  sh i g
+шік  sh i k
+шөг  sh io g
+шөк  sh io k
+жәг  j ae g
+жәк  j ae k
+жег  j e g
+жек  j e k
+жүг  j iu g
+жүк  j iu k
+жіг  j i g
+жік  j i k
+жөг  j io g
+жөк  j io k
+хәг  x ae g
+хәк  x ae k
+хег  x e g
+хек  x e k
+хүг  x iu g
+хүк  x iu k
+хіг  x i g
+хік  x i k
+хөг  x io g
+хөк  x io k
+һәг  h ae g
+һәк  h ae k
+һег  h e g
+һек  h e k
+һүг  h iu g
+һүк  h iu k
+һіг  h i g
+һік  h i k
+һөг  h io g
+һөк  h io k
+зәг  z ae g
+зәк  z ae k
+зег  z e g
+зек  z e k
+зүг  z iu g
+зүк  z iu k
+зіг  z i g
+зік  z i k
+зөг  z io g
+зөк  z io k
+бағ  b a gh
+бақ  b a q
+бұғ  b ou gh
+бұқ  b ou q
+бығ  b y gh
+бық  b y q
+боғ  b o gh
+боқ  b o q
+дағ  d a gh
+дақ  d a q
+дұғ  d ou gh
+дұқ  d ou q
+дығ  d y gh
+дық  d y q
+доғ  d o gh
+доқ  d o q
+лағ  l a gh
+лақ  l a q
+лұғ  l ou gh
+лұқ  l ou q
+лығ  l y gh
+лық  l y q
+лоғ  l o gh
+лоқ  l o q
+нағ  n a gh
+нақ  n a q
+нұғ  n ou gh
+нұқ  n ou q
+нығ  n y gh
+нық  n y q
+ноғ  n o gh
+ноқ  n o q
+ңағ  ng a gh
+ңақ  ng a q
+ңұғ  ng ou gh
+ңұқ  ng ou q
+ңығ  ng y gh
+ңық  ng y q
+ңоғ  ng o gh
+ңоқ  ng o q
+рағ  r a gh
+рақ  r a q
+рұғ  r ou gh
+рұқ  r ou q
+рығ  r y gh
+рық  r y q
+роғ  r o gh
+роқ  r o q
+сағ  s a gh
+сақ  s a q
+сұғ  s ou gh
+сұқ  s ou q
+сығ  s y gh
+сық  s y q
+соғ  s o gh
+соқ  s o q
+тағ  t a gh
+тақ  t a q
+тұғ  t ou gh
+тұқ  t ou q
+тығ  t y gh
+тық  t y q
+тоғ  t o gh
+тоқ  t o q
+пағ  p a gh
+пақ  p a q
+пұғ  p ou gh
+пұқ  p ou q
+пығ  p y gh
+пық  p y q
+поғ  p o gh
+поқ  p o q
+мағ  m a gh
+мақ  m a q
+мұғ  m ou gh
+мұқ  m ou q
+мығ  m y gh
+мық  m y q
+моғ  m o gh
+моқ  m o q
+шағ  sh a gh
+шақ  sh a q
+шұғ  sh ou gh
+шұқ  sh ou q
+шығ  sh y gh
+шық  sh y q
+шоғ  sh o gh
+шоқ  sh o q
+жағ  j a gh
+жақ  j a q
+жұғ  j ou gh
+жұқ  j ou q
+жығ  j y gh
+жық  j y q
+жоғ  j o gh
+жоқ  j o q
+хағ  x a gh
+хақ  x a q
+хұғ  x ou gh
+хұқ  x ou q
+хығ  x y gh
+хық  x y q
+хоғ  x o gh
+хоқ  x o q
+һағ  h a gh
+һақ  h a q
+һұғ  h ou gh
+һұқ  h ou q
+һығ  h y gh
+һық  h y q
+һоғ  h o gh
+һоқ  h o q
+зағ  z a gh
+зақ  z a q
+зұғ  z ou gh
+зұқ  z ou q
+зығ  z y gh
+зық  z y q
+зоғ  z o gh
+зоқ  z o q
+гиг  g ii g
+гик  g ii k
+гуг  g u g
+гук  g u k
+киг  k ii g
+кик  k ii k
+куг  k u g
+кук  k u k
+ғиғ  gh ii gh
+ғиқ  gh ii q
+ғуғ  gh u gh
+ғуқ  gh u q
+қиғ  q ii gh
+қиқ  q ii q
+қуғ  q u gh
+қуқ  q u q
+гәг  g ae g
+гәк  g ae k
+гег  g e g
+гек  g e k
+гүг  g iu g
+гүк  g iu k
+гіг  g i g
+гік  g i k
+гөг  g io g
+гөк  g io k
+кәг  k ae g
+кәк  k ae k
+кег  k e g
+кек  k e k
+күг  k iu g
+күк  k iu k
+кіг  k i g
+кік  k i k
+көг  k io g
+көк  k io k
+ғағ  gh a gh
+ғақ  gh a q
+ғұғ  gh ou gh
+ғұқ  gh ou q
+ғығ  gh y gh
+ғық  gh y q
+ғоғ  gh o gh
+ғоқ  gh o q
+қағ  q a gh
+қақ  q a q
+құғ  q ou gh
+құқ  q ou q
+қығ  q y gh
+қық  q y q
+қоғ  q o gh
+қоқ  q o q
 0  n io l
 1  b i r
 2  e k i
